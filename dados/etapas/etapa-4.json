@@ -1,0 +1,271 @@
+{
+  "etapa": 4,
+  "aulas": [
+    {
+      "id": "emitir-passo-a-passo",
+      "nome": "Emitir com milhas, passo a passo",
+      "porque": "É na emissão que o esforço de acumular vira (ou não) uma viagem. Os erros mais caros acontecem aqui, e quase todos são de conferência: nome diferente do documento, data errada, tarifa sem bagagem, beneficiário que gasta uma vaga do limite de CPFs. Uma emissão bem feita leva 15 minutos a mais e evita taxa de correção, remarcação ou passagem perdida.",
+      "passos": [
+        "Pesquise primeiro no site ou app oficial do programa (Smiles, LATAM Pass, Azul Fidelidade), sempre logado na sua conta, e use o calendário ou a busca de datas flexíveis para ver os dias mais baratos em milhas.",
+        "Abra, numa outra aba, o preço em dinheiro do mesmo voo, na mesma tarifa e com a mesma bagagem: sem esse número você não sabe se a emissão vale a pena (aula seguinte).",
+        "Antes de pagar, confira passageiro por passageiro: nome e sobrenome iguais ao documento que será usado no embarque, CPF, data de nascimento. Para quem não é você, veja quantas vagas de beneficiário o programa permite e por quanto tempo a vaga fica presa.",
+        "Leia as regras da tarifa (bagagem, assento, remarcação, cancelamento) e o resumo de cobranças: milhas, taxa de embarque e eventual taxa de emissão ou resgate. Pague as taxas no cartão, de preferência à vista.",
+        "Guarde o localizador e o e-mail de confirmação, confira a reserva também no site da companhia aérea que vai operar o voo e faça o check-in pelo canal oficial."
+      ],
+      "armadilhas": [
+        "Emitir por link recebido em WhatsApp, e-mail ou anúncio: golpes copiam a tela dos programas. Entre sempre digitando o endereço ou pelo app oficial; alguns programas passaram a pedir biometria facial na emissão, e isso só deve ser feito dentro do app oficial.",
+        "Gastar a vaga de beneficiário com quem talvez não viaje: em vários programas o limite de CPFs por período é pequeno e a vaga continua contando mesmo se a passagem for cancelada.",
+        "Achar que o menor número de milhas é a melhor emissão: às vezes a tarifa mais barata não tem mala, tem conexão longa ou não permite remarcar.",
+        "Errar o nome e só perceber no aeroporto: correção depois da emissão pode ter custo ou exigir nova emissão."
+      ],
+      "dica": "Antes de clicar em 'confirmar', tire um print da tela de resumo (milhas, taxas, regras da tarifa e nomes). Se der problema depois, esse print é a sua prova junto ao programa, à ANAC ou ao consumidor.gov.br. E não emita na pressa: o assento que some em 10 minutos costuma reaparecer em outra data ou em outro programa, e a sua conta do milheiro continua valendo.",
+      "videos": [
+        {
+          "titulo": "Como Emitir na Smiles: Parceiros, Limite de CPFs, Viaje Fácil e Benefícios",
+          "canal": "Marcos Koler",
+          "url": "https://www.youtube.com/watch?v=fByGAB1_70g",
+          "publicado": "2026-09-18",
+          "duracao": "32:12",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Aula prática e recente (set/2026) de emissão na Smiles que, pela descrição, cobre pesquisa, emissão em parceiras, limite de CPFs, cuidados no cadastro de passageiros e 'como avaliar se uma emissão realmente compensa', com aviso explícito de que regras e valores mudam. Sem promessa de renda; o canal divulga grupos de alerta e um sistema próprio de gestão de milhas. Auditado pela descrição; a legenda não estava acessível e o vídeo não tem capítulos.",
+            "alerta": "São 32 minutos e parte do conteúdo (Teto Diamante, passagem cortesia, Viaje Fácil) é para quem já tem categoria ou quer parcelar: foque na busca, no cadastro de passageiros e no limite de CPFs. O 'Viaje Fácil' é reserva antes de ter as milhas; não use isso como motivo para comprar milhas sem fazer a conta."
+          }
+        },
+        {
+          "titulo": "Como Emitir Passagens na LATAM: Limite de CPFs, Tarifas e Estratégias",
+          "canal": "Marcos Koler",
+          "url": "https://www.youtube.com/watch?v=0n_bzj0GV9w",
+          "publicado": "2026-09-18",
+          "duracao": "36:17",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Mesma série, mesma data: emissão no LATAM Pass com limite de CPFs, cadastro de passageiros, diferenças entre tarifas, tabela fixa, remarcações e, segundo a descrição, 'por que comparar o valor em pontos com o preço em dinheiro'. Tom didático e sem hype. Auditado pela descrição; a legenda não estava acessível e o vídeo não tem capítulos.",
+            "alerta": "Os limites de CPF e as regras de remarcação citados valem para a data da gravação: confira no regulamento antes de emitir para terceiros. Quem usa Azul tem a aula equivalente no mesmo canal ('Emitindo Passagens na Azul: Guia Completo Passo a Passo'). Ignore o convite para o sistema pago de gestão: uma planilha simples resolve."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=qkMKDbTEAa0", "motivo": "Passo a passo de cerca de 4 anos: o site da Smiles e as regras de emissão mudaram desde então." },
+        { "url": "https://www.youtube.com/watch?v=xg3ubUi290s", "motivo": "Smiles de 2024, e a descrição abre com curso pago e venda de acesso a 'balcão de milhas' (compra e venda), que a trilha não recomenda." },
+        { "url": "https://www.youtube.com/watch?v=kpOV1KCyqo8", "motivo": "Mesmo funil de curso pago e balcão de milhas; promete 'emitir para terceiros com segurança' sem falar do limite de beneficiários." },
+        { "url": "https://www.youtube.com/watch?v=aXtqd0vVG_I", "motivo": "Curto (5 min), só Smiles, e a descrição abre com link para produto externo de 'cotas de assentos'." },
+        { "url": "https://www.youtube.com/watch?v=n0NYjvZmxwo", "motivo": "Descrição vazia, só hashtags, incluindo #rendaextra e #tudoazul; não dá para auditar o conteúdo." }
+      ]
+    },
+    {
+      "id": "milhas-ou-dinheiro",
+      "nome": "Tabela fixa x dinâmica: milhas ou dinheiro?",
+      "porque": "Com a tabela dinâmica, o preço em milhas acompanha o preço em dinheiro: quando a passagem está barata em reais, ela também está barata em milhas, e às vezes pagar em dinheiro sai melhor. Na tabela fixa (ou tarifa 'award'), o programa cobra um número fixo de milhas por trecho ou região, desde que haja assento liberado; é aí que costumam aparecer os melhores resgates. Saber qual das duas você está vendo, e fazer a conta, evita queimar milhas em um resgate ruim.",
+      "passos": [
+        "Para o mesmo voo, anote quatro números: o preço em dinheiro (mesma tarifa e bagagem), as milhas pedidas, as taxas cobradas no resgate e quanto custou o seu milheiro (CPM, da etapa 3).",
+        "Coloque esses números na calculadora 'Vale usar milhas nesta passagem?' do site. Ela calcula o valor do milheiro no resgate: (preço em dinheiro − taxas) ÷ (milhas ÷ 1.000).",
+        "Compare com o seu CPM: se o resgate vale bem mais do que o milheiro custou, use milhas; se vale menos, pague em dinheiro e guarde as milhas para um resgate melhor.",
+        "Veja se a emissão é tabela fixa/award (número redondo de milhas, igual em várias datas) ou dinâmica/comercial (número que muda junto com o preço em dinheiro). Na dinâmica, a conta quase sempre fica perto do 'empate'.",
+        "Se as milhas vieram do cartão, use como CPM quanto custaria repor essas milhas (comprar ou transferir com bônus), e não zero: milha 'de graça' tem custo de oportunidade."
+      ],
+      "armadilhas": [
+        "Comparar com o preço em dinheiro de outra data, outra tarifa ou sem a mala: a comparação precisa ser do mesmo produto.",
+        "Esquecer que a passagem paga em dinheiro também gera pontos no cartão e milhas voando, enquanto a emissão com milhas geralmente não gera. Em resgates no limite, isso inverte o resultado.",
+        "Usar o preço de venda de milhas como referência e se convencer a 'lucrar': vender milhas viola o regulamento dos programas (etapa 7).",
+        "Achar que tabela fixa é sempre vantagem: se a passagem em dinheiro estiver em promoção, a tabela fixa pode sair mais cara."
+      ],
+      "dica": "Conta com os números de exemplo da calculadora (mudam o tempo todo): passagem de R$ 1.500 ou 30.000 milhas + R$ 80 de taxas → (1.500 − 80) ÷ 30 = R$ 47,33 por milheiro. Com CPM de R$ 17,50, a passagem com milhas custa de verdade 30 × 17,50 + 80 = R$ 605, uma economia de R$ 895: use milhas. Agora uma dinâmica: R$ 400 ou 25.000 milhas + R$ 40 → (400 − 40) ÷ 25 = R$ 14,40 por milheiro, abaixo dos R$ 17,50 que as milhas custaram: pague em dinheiro. A calculadora só dá 'bom resgate' com folga de 15% acima do CPM (aqui, acima de R$ 20,13), para compensar regras de cancelamento e os pontos que você deixaria de ganhar pagando em dinheiro.",
+      "videos": [
+        {
+          "titulo": "Tarifa Award x Tarifa Comercial - Qual é a diferença?",
+          "canal": "Passageiro de Primeira",
+          "url": "https://www.youtube.com/watch?v=J648HLulLnY",
+          "publicado": "2026-07-22",
+          "duracao": "6:38",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Curto, recente e de um portal especializado sério: explica a diferença entre tarifa award (assento liberado para milhas, geralmente com preço fixo) e tarifa comercial (milhas atreladas ao preço em dinheiro), que é a base de 'tabela fixa x dinâmica'. Sem funil de venda na descrição. Auditado pela descrição; a legenda não estava acessível.",
+            "alerta": "O vídeo explica o conceito, não faz a conta. Depois de assistir, leve um exemplo real para a calculadora do site. 'Award' não é sinônimo de barato: compare sempre com o preço em dinheiro."
+          }
+        },
+        {
+          "titulo": "Milhas vs Dinheiro: qual a melhor escolha para emitir passagens aéreas baratas?",
+          "canal": "Pedro Gerador | Viagens sem perrengue",
+          "url": "https://www.youtube.com/watch?v=Fi_Oa5FssLo",
+          "publicado": "2026-10-16",
+          "duracao": "24:13",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Estudo de caso de outubro/2026: pesquisa o preço em dinheiro no Google Flights, compara com vários programas e monta um ranking. A planilha pública do vídeo usa a mesma lógica da calculadora do site, e conferimos as contas: no exemplo da GOL, 81.700 milhas a R$ 16 + R$ 35,15 = R$ 1.342,35 contra R$ 2.183 em dinheiro (39% de economia), e o milheiro máximo aceitável é (2.183 − 35,15) ÷ 81,7 = R$ 26,29. Auditado pela descrição, capítulos e planilha; a legenda não estava acessível.",
+            "alerta": "Os exemplos usam programas estrangeiros (AAdvantage, Flying Blue, TAP, Turkish), que são assunto da etapa 6: aqui, aprenda só o método. Os 'valores de milheiro' da planilha são referências de mercado e mudam. A descrição tem cupom de patrocinador de roupas, sem relação com o tema."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=mBA_T2WwIpE", "motivo": "Tema certo, mas é trecho de conteúdo fechado e a descrição empurra 'balcão de milhas' (compra e venda) e grupo pago de emissões." },
+        { "url": "https://www.youtube.com/watch?v=c6k0r_G0sQs", "motivo": "Tabela fixa com cerca de 3 anos e título caça-clique ('O SEGREDO'); tabelas e trechos citados provavelmente mudaram." },
+        { "url": "https://www.youtube.com/watch?v=-V6DEiDYFPM", "motivo": "Live de 1h31 sobre 'milheiro ideal': longa demais para a aula e focada em valores de mercado que envelhecem rápido." },
+        { "url": "https://www.youtube.com/watch?v=gOiDzxe9HFA", "motivo": "Razoável (dez/2025), mas trata só da tabela fixa da LATAM; o método geral já está coberto pelos dois vídeos escolhidos." }
+      ]
+    },
+    {
+      "id": "taxas-e-custos",
+      "nome": "Taxas de embarque e custos escondidos",
+      "porque": "Passagem com milhas nunca é de graça: sempre há taxa de embarque e, dependendo do programa e da rota, outras cobranças. Em voos internacionais, algumas companhias somam uma sobretaxa de combustível que pode passar de mil reais e destruir a vantagem das milhas. Quem não soma todos os custos antes de emitir acha que economizou e, às vezes, pagou mais.",
+      "passos": [
+        "Na tela de resumo da emissão, separe o que é milha e o que é dinheiro: taxa de embarque (cobrada por aeroporto e trecho), taxa de emissão ou resgate do programa (quando houver) e, em internacional, a sobretaxa de combustível (às vezes chamada de YQ/YR ou 'taxas da companhia').",
+        "Em voo internacional, compare o mesmo voo em programas diferentes: a sobretaxa de combustível depende da companhia que opera e do programa que emite, e pode mudar muito de um para outro.",
+        "Some os opcionais que a tarifa não inclui: mala despachada, marcação de assento e, se for o caso, taxa por emitir pelo telefone ou balcão em vez de pelo site.",
+        "Coloque o total em dinheiro no campo 'Taxas pagas em dinheiro no resgate' da calculadora do site e refaça a conta do milheiro.",
+        "Desmarque produtos adicionados por padrão (seguro, assento, pacote) antes de pagar."
+      ],
+      "armadilhas": [
+        "Olhar só o número de milhas e descobrir as taxas na última tela: em internacional, 'poucas milhas' com taxa alta pode sair pior do que pagar em dinheiro.",
+        "Esquecer que alguns programas cobram taxa de resgate ou de emissão, que pode variar com a antecedência, a categoria do cliente, o canal e se o titular viaja (a Azul, por exemplo, mudou essas regras mais de uma vez em 2025–2026). Confira na tela, não em vídeo antigo.",
+        "Pagar taxa de embarque em moeda estrangeira sem perceber: aí entram IOF e câmbio do cartão.",
+        "Atribuir às milhas custos que existiriam de qualquer jeito (IOF de gastos no exterior, taxa de hotel): na comparação entre milhas e dinheiro, só entra o que muda entre as duas opções."
+      ],
+      "dica": "Exemplo fictício de internacional: passagem de R$ 3.500 em dinheiro ou 50.000 milhas + R$ 2.800 de taxas (com sobretaxa de combustível). Valor do milheiro: (3.500 − 2.800) ÷ 50 = R$ 14. Com milhas que custaram R$ 17,50 o milheiro, a emissão custa 50 × 17,50 + 2.800 = R$ 3.675, R$ 175 a mais que pagar em dinheiro. A mesma rota por um programa que não repassa a sobretaxa pode virar um ótimo resgate. A conta é sempre a mesma; o que muda é o total de taxas.",
+      "videos": [
+        {
+          "titulo": "Passagem com milhas vale a pena? A conta deu R$ 394 a mais",
+          "canal": "Letra Miúda",
+          "url": "https://www.youtube.com/watch?v=XTXzfo6u1uY",
+          "publicado": "2026-11-08",
+          "duracao": "7:49",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Baixo",
+            "veredito": "Dramatização curta, com personagens fictícios, que mostra como a viagem 'quase de graça' com milhas vai ganhando custos: bagagem, assento, seguro já marcado, IOF. A mensagem central está certa: some tudo antes de emitir. A descrição cita fontes (CDC sobre venda casada) e avisa que valores e regras são exemplos. Canal novo e de variedades, não especializado. Auditado pela descrição e capítulos; a legenda não estava acessível.",
+            "alerta": "Cuidado com a comparação do vídeo: IOF de gastos no exterior e taxa do hotel aconteceriam também pagando a passagem em dinheiro, e mala e assento só entram se a tarifa em dinheiro já os incluísse. Para decidir entre milhas e dinheiro, compare só o que muda entre as duas opções, com a mesma tarifa."
+          }
+        },
+        {
+          "titulo": "Cuidado: A \"Pegadinha\" das Taxas Absurdas nas Milhas",
+          "canal": "GuNasPraias",
+          "url": "https://www.youtube.com/watch?v=w0sLUuvmFvs",
+          "publicado": "2026-07-09",
+          "duracao": "11:08",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Médio",
+            "veredito": "Mostra na tela os dois vilões das taxas em internacional: a sobretaxa de combustível e a emissão 'em milhas' que esconde uma tarifa cara, com o exemplo de um mesmo voo da Emirates cuja taxa cai de cerca de R$ 4.200 para R$ 70 trocando o programa emissor. É o conteúdo certo para a aula. Perde pontos pelo funil no fim (assessoria VIP para quem gasta mais de R$ 30 mil por mês, clube pago e vários afiliados). Auditado pela descrição e capítulos; a legenda não estava acessível.",
+            "alerta": "A descrição diz que a sobretaxa de combustível seria 'ilegal no Brasil': o tema é controverso e, na prática, várias companhias cobram em emissões com milhas saindo do Brasil. Não conte com isso, confira o total na tela. Pule a partir de 9:34 (propaganda do clube e da assessoria)."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=0tz1iJlW9fQ", "motivo": "Boa explicação da sobretaxa de combustível, mas é de 2023 e funciona como funil de consultoria; preferimos um vídeo de 2026 sobre o mesmo ponto." },
+        { "url": "https://www.youtube.com/watch?v=0hdaEQ4scvY", "motivo": "Fala de taxas aeroportuárias em geral, não de emissão com milhas, e a descrição é cheia de afiliados." },
+        { "url": "https://www.youtube.com/watch?v=KFfFjrhuzfE", "motivo": "Confiável (Melhores Destinos, nov/2025), mas cobre só a marcação de assento; serve de complemento, não de aula." },
+        { "url": "https://www.youtube.com/watch?v=Fb2wsCxCMwY", "motivo": "Notícia de ago/2025 sobre a taxa de resgate da Azul, que mudou de novo depois; a descrição é só um link para produto pago do canal." }
+      ]
+    },
+    {
+      "id": "alertas-de-promocao",
+      "nome": "Alertas e busca de promoções",
+      "porque": "Boa parte dos bons resgates é achada por quem pesquisa com calma e deixa alertas trabalhando, não por quem corre atrás de toda notificação. Ferramentas gratuitas avisam quando o preço em dinheiro cai e mostram onde há assento liberado para milhas. Ao mesmo tempo, grupos e posts com 'só hoje' e 'últimos assentos' vivem de urgência: saber pesquisar sozinho é o que protege você de emitir por impulso.",
+      "passos": [
+        "Crie um alerta de preço no Google Flights para a rota e o período que você quer: ele avisa por e-mail quando o preço em dinheiro muda e mostra se o preço atual está baixo, típico ou alto.",
+        "Para milhas, use um buscador de disponibilidade (ex.: Seats.aero, que tem plano gratuito limitado) e depois confirme sempre no site do programa antes de transferir ou emitir.",
+        "Se quiser alertas prontos, escolha um ou dois canais gratuitos de portais conhecidos (ex.: apps e grupos do Melhores Destinos, Passageiro de Primeira ou Pontos pra Voar) e silencie o resto.",
+        "Quando chegar um alerta, faça a conta do milheiro antes de qualquer coisa: preço em dinheiro da mesma data, milhas e taxas na calculadora do site.",
+        "Anote num lugar só (planilha ou bloco de notas) as rotas que você acompanha e os preços que achou; em poucas semanas você saberá reconhecer o que é promoção de verdade."
+      ],
+      "armadilhas": [
+        "Transferir pontos ou comprar milhas porque o alerta disse 'corre' e só depois descobrir que o assento sumiu: confirme a disponibilidade no programa primeiro.",
+        "Pagar por grupo de alertas antes de saber usar as ferramentas gratuitas: o grupo pago não emite por você e não garante assento.",
+        "Clicar em link de 'promoção' que pede login ou dados: golpes usam exatamente o formato de alerta de passagem.",
+        "Confiar em dado antigo do buscador: disponibilidade de milhas aparece e some; olhe a data da última verificação."
+      ],
+      "dica": "Regra das 24 horas contra a urgência artificial: se a oferta for boa e você não conseguir fazer a conta do milheiro em cinco minutos, espere. Promoções de transferência e de passagem se repetem várias vezes por ano; uma decisão errada de R$ 1.000 em milhas não se repete com desconto.",
+      "videos": [
+        {
+          "titulo": "Google Flights: como encontrar passagens baratas | Guia completo",
+          "canal": "Pedro Gerador | Viagens sem perrengue",
+          "url": "https://www.youtube.com/watch?v=lEeMIG3uakY",
+          "publicado": "2026-10-24",
+          "duracao": "30:35",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Guia recente e bem capitulado: filtros de bagagem e horário, como saber se a passagem está barata, datas flexíveis, criação de alertas de preço, 'Explorar' e extensões. A descrição já faz o alerta certo: comparar mesmos trechos e condições, somar taxas e confirmar disponibilidade no programa. Auditado pela descrição e capítulos; a legenda não estava acessível.",
+            "alerta": "O Google Flights é para pesquisar e acompanhar; compre ou emita no site oficial da companhia ou do programa. A extensão de milhas mostra preço por trecho e o Google pode mostrar ida e volta: confira antes de comparar."
+          }
+        },
+        {
+          "titulo": "Como Usar o Seats.aero 2026: Guia Completo do Básico ao Avançado",
+          "canal": "DIA23",
+          "url": "https://www.youtube.com/watch?v=MwSh1dVQj04",
+          "publicado": "2026-09-03",
+          "duracao": "26:04",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Mostra o buscador de disponibilidade com milhas no plano gratuito e no pago, explica tarifa award, a importância do 'last seen' (quando a tarifa foi vista pela última vez) e como criar alertas. Declara não ter comissão da ferramenta e corrige um erro próprio na descrição, o que é raro. Perde pontos pelo funil de comunidade paga, curso e concierge. Auditado pela descrição detalhada e capítulos; a legenda não estava acessível.",
+            "alerta": "Comece pelo plano gratuito: a própria descrição diz que, se você resolve tudo em 60 dias, o pago não compensa. Os exemplos de executiva são da etapa 6. A conta da tabela fixa do vídeo usa milheiro de R$ 25–28, que é só um exemplo. Ignore os convites para comunidade e curso."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=R88iQuxdgY0", "motivo": "Título útil ('não assine grupo de alertas'), mas o canal vende 'como lucrar com o cartão' e renda extra com milhas." },
+        { "url": "https://www.youtube.com/watch?v=o6bFjqhpzKc", "motivo": "Tutorial de Google Flights de cerca de 2 anos; a interface e os recursos mudaram, e há guia de out/2026." },
+        { "url": "https://www.youtube.com/watch?v=Q0kYnxReHV4", "motivo": "Bom tutorial de Seats.aero, mas é só a parte 1 de uma série; preferimos um guia completo num vídeo só." },
+        { "url": "https://www.youtube.com/watch?v=GPD_z_cbDpc", "motivo": "Título caça-clique ('O Novo Site Que MUDA TUDO') para apresentar a extensão do Seats.aero, já coberta no guia escolhido; foco em Europa, Ásia e EUA e link de afiliado logo no início." }
+      ]
+    },
+    {
+      "id": "cancelamento-e-direitos",
+      "nome": "Cancelamento, remarcação e direitos",
+      "porque": "Plano muda, voo atrasa, companhia cancela. Quem emitiu com milhas tem os mesmos direitos básicos de quem pagou em dinheiro quando o problema é da companhia, mas muita gente aceita crédito, voucher ou perda de milhas por não saber disso. As regras da ANAC foram atualizadas em 26/10/2026 (Resolução 813, que altera a Resolução 400), então vídeos antigos podem estar desatualizados.",
+      "passos": [
+        "Se você desistir: veja na hora da emissão as regras de cancelamento e remarcação da tarifa e do programa. A ANAC garante desistência sem custo em até 24 horas após a compra, se ela foi feita com pelo menos 7 dias de antecedência do voo; confirme no programa como isso se aplica à emissão com milhas.",
+        "Se a companhia cancelar ou atrasar muito: você pode escolher, conforme o caso, entre reacomodação em outro voo, reembolso integral (milhas de volta e taxas em dinheiro) ou outro meio de transporte. Não é obrigado a aceitar crédito.",
+        "Durante a espera no aeroporto: a partir de 2 horas, a companhia deve dar alimentação; a partir de 4 horas, com necessidade de pernoite, hospedagem e transporte. Isso continua valendo mesmo com mau tempo. Guarde notas e comprovantes de tudo.",
+        "Se for impedido de embarcar por excesso de passageiros (overbooking), você tem direito às mesmas alternativas e a uma compensação prevista na Resolução 400; peça tudo por escrito.",
+        "Se não resolver: registre reclamação no ANAC Passageiro (plataforma oficial da ANAC) ou no consumidor.gov.br, com prints, localizador e comprovantes. Procon e Juizado Especial Cível são os próximos passos."
+      ],
+      "armadilhas": [
+        "Aceitar 'crédito', voucher ou devolução parcial de milhas quando o cancelamento foi da companhia: o reembolso integral é direito seu, inclusive em passagem emitida com milhas.",
+        "Cancelar por conta própria uma emissão com milhas achando que tudo volta: em desistência voluntária, os programas podem cobrar taxa ou reter milhas, e a vaga de beneficiário pode continuar ocupada.",
+        "Acreditar em promessa de 'indenização garantida' por atraso: dano moral depende de prova e de decisão judicial, e o tema está em discussão no STF. Desconfie de quem cobra caro para 'garantir' indenização.",
+        "Confiar em vídeos anteriores a 26/10/2026: a assistência de comunicação após 1 hora de espera foi retirada e o dever de informação mudou."
+      ],
+      "dica": "Exemplo fictício: você emitiu 20.000 milhas + R$ 60 de taxas e a companhia cancelou o voo. Se escolher reembolso, o correto é receber as 20.000 milhas de volta na conta e os R$ 60 em dinheiro, sem multa. Se a desistência for sua, fora das 24 horas, vale a regra do programa, que pode cobrar uma taxa ou reter parte das milhas. Por isso, antes de emitir uma viagem incerta, leia a regra de cancelamento: ela também é custo.",
+      "videos": [
+        {
+          "titulo": "Novas regras da Anac: o que muda no seu voo atrasado a partir de 26/10",
+          "canal": "Agora no Mundo",
+          "url": "https://www.youtube.com/watch?v=rTvar0WiB3g",
+          "publicado": "2026-10-24",
+          "duracao": "5:23",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Resumo curto e atual da Resolução 813/2026, que altera a 400: mantém alimentação após 2 horas e hotel com transporte após 4 horas com pernoite (inclusive com mau tempo), retira a assistência de comunicação após 1 hora, amplia o dever de informar e cria o reembolso de despesas em situações excepcionais. Bate com o que a ANAC e a imprensa publicaram, e a descrição lista as fontes. Canal de notícias pequeno, com narração sintética e ilustrações. Auditado pela descrição e capítulos; a legenda não estava acessível.",
+            "alerta": "O vídeo não fala de passagem emitida com milhas nem de desistência voluntária. Complete com esta aula: em cancelamento pela companhia, os direitos valem igual para milhas. O reembolso em 7 dias citado é o das despesas que você pagou do bolso em situação excepcional, com comprovantes."
+          }
+        },
+        {
+          "titulo": "Como reclamar e receber resposta das aéreas em 10 dias",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=jt73ULLz8HM",
+          "publicado": "2026-08-10",
+          "duracao": "9:24",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Passo a passo do ANAC Passageiro, a plataforma gratuita e oficial de reclamação contra companhias aéreas, com documentos para anexar, prazo de resposta e comparação com o consumidor.gov.br. É o canal certo, sem intermediário pago. Auditado pela descrição e capítulos; a legenda não estava acessível.",
+            "alerta": "Problema com o programa de fidelidade (milhas não devolvidas, taxa de cancelamento) pode precisar ser reclamado contra o programa, e não só contra a companhia aérea. Ignore os links de seguro viagem com desconto da descrição."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=CIgTnihkDDQ", "motivo": "Tema certo (voo cancelado com milhas), mas é funil de escritório de advocacia e promete 'indenização quando o atraso passa de 4 horas', o que não é regra automática no Brasil." },
+        { "url": "https://www.youtube.com/watch?v=ZYwU-qFFYlk", "motivo": "Anterior à Resolução 813 e trata como certo um prazo de 7 dias do CDC para desistir de passagem, tema que ainda é discutido na Justiça." },
+        { "url": "https://www.youtube.com/watch?v=7aMVwJ-Ppo8", "motivo": "Cancelamento de passagem com milhas de cerca de 6 anos; regras dos programas mudaram." },
+        { "url": "https://www.youtube.com/watch?v=QwBRDuP85Og", "motivo": "Vídeo de 2 minutos, de 2 anos atrás, de canal de cupons; genérico e sem nada sobre milhas." }
+      ]
+    }
+  ]
+}

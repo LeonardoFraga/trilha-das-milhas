@@ -1,0 +1,286 @@
+{
+  "etapa": 3,
+  "aulas": [
+    {
+      "id": "transferir-pontos",
+      "nome": "Transferir pontos para companhias aéreas",
+      "porque": "A transferência é o momento em que o ponto do banco, que ainda pode ir para vários programas, vira milha presa a uma única companhia aérea. Ela não tem volta: transferir cedo demais, para o programa errado ou para uma conta com dados diferentes custa caro. Conhecer a paridade, o prazo de crédito e a regra do mesmo CPF evita perder pontos e bônus.",
+      "passos": [
+        "Antes de transferir, tenha um destino: pesquise a passagem (datas, ida e volta) e veja quantas milhas ela custa em cada programa para o qual o seu banco transfere.",
+        "Confira se a conta na companhia aérea está no seu nome e no mesmo CPF da conta do banco, com cadastro completo. Em regra, a transferência só é aceita entre contas do mesmo titular.",
+        "No site do programa de banco, veja a paridade (quantos pontos viram 1 milha: muitas vezes 1:1 nas companhias nacionais, mas há parceiros com 2:1), o mínimo por transferência e o prazo de crédito. Isso muda: confira no dia.",
+        "Na primeira vez com um parceiro, faça uma transferência pequena e guarde o comprovante.",
+        "Depois, confira o extrato da companhia: as milhas básicas costumam cair antes do bônus. Anote a validade de cada lote."
+      ],
+      "armadilhas": [
+        "Transferir 'para não perder' sem ter viagem em vista: a milha não volta para o banco, e a companhia pode mudar a tabela de resgate.",
+        "Transferir sem bônus quando não há pressa: ao longo do ano costumam aparecer campanhas com bônus (próxima aula).",
+        "Erro de cadastro (CPF, nome ou número de fidelidade diferentes) que trava ou bloqueia o crédito.",
+        "Contar com a tarifa vista hoje enquanto as milhas não caem: se o crédito leva dias, a passagem pode mudar de preço ou sumir.",
+        "Deixar para a véspera do vencimento dos pontos: a transferência também tem prazo de processamento."
+      ],
+      "dica": "Faça a conta da paridade antes de clicar. Exemplo com números fictícios: 30.000 pontos numa paridade 1:1 viram 30.000 milhas; numa paridade 2:1, viram 15.000. Se a passagem custa 25.000 milhas, só a primeira opção resolve. E se o saldo cobre a passagem com sobra, transfira só o necessário (respeitando o mínimo do programa): o que fica no banco continua flexível.",
+      "videos": [
+        {
+          "titulo": "Como transferir os pontos do cartão para companhias aéreas e ganhar bônus?",
+          "canal": "Passageiro de Primeira",
+          "url": "https://www.youtube.com/watch?v=EfPGlYR_ceE",
+          "publicado": "2026-08-06",
+          "duracao": "10:31",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Recente e de canal sério: explica como levar os pontos do cartão para as companhias, as regras das campanhas, quando vale transferir e os cuidados para não desperdiçar milhas. Sem promessa de renda. Auditado por título e descrição (sem capítulos; a legenda automática existe, mas a transcrição não estava acessível).",
+            "alerta": "A descrição traz um link rastreado de assinatura do Clube Livelo, sem aviso de publicidade. Não assine clube por causa deste vídeo: clubes têm aula própria nesta etapa. Paridade, prazo de crédito e bônus mudam: confira no regulamento do dia."
+          }
+        },
+        {
+          "titulo": "Como transferir pontos Livelo para o Azul Fidelidade | Passo a Passo",
+          "canal": "Azul Linhas Aéreas Brasileiras",
+          "url": "https://www.youtube.com/watch?v=2TR0wbs_lFk",
+          "publicado": "2026-08-18",
+          "duracao": "0:54",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Baixo",
+            "veredito": "Tutorial oficial de menos de um minuto que mostra o caminho da transferência no app. Serve para ver as telas, não para decidir. Auditado por título e descrição.",
+            "alerta": "É uma peça da própria Azul ('rápido e fácil'): não avisa que a transferência é irreversível, nem que pode valer esperar uma campanha com bônus e se cadastrar nela antes. As telas do app mudam com o tempo."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=f5RQx2jbkgw", "motivo": "'Aula liberada' de curso pago, publicada há cerca de 2 anos; regras de transferência podem ter mudado." },
+        { "url": "https://www.youtube.com/watch?v=0_OaHsx7yRc", "motivo": "Título caça-clique ('os programas não querem que você saiba') e conteúdo de 2024." },
+        { "url": "https://www.youtube.com/watch?v=wERri_qjWkM", "motivo": "Promete 'DOBRAR' as milhas e tem cerca de 2 anos; vende o bônus como regra, não como campanha." },
+        { "url": "https://www.youtube.com/watch?v=J1c983m-UbE", "motivo": "Passo a passo da Esfera de cerca de 2 anos atrás; telas e paridades provavelmente mudaram." },
+        { "url": "https://www.youtube.com/watch?v=oQPm6E1ribo", "motivo": "Ensina a vender pontos Livelo, o que viola os regulamentos." }
+      ]
+    },
+    {
+      "id": "transferencia-bonificada",
+      "nome": "Transferência bonificada",
+      "porque": "Na transferência bonificada, a companhia aérea (às vezes junto com o banco) dá milhas extras sobre os pontos transferidos durante uma campanha. É a forma mais comum de baixar o custo de cada milha sem gastar mais. Mas o bônus só ajuda quando você já ia transferir e tem onde usar as milhas.",
+      "passos": [
+        "Acompanhe por algumas semanas as campanhas dos programas que você usa (apps e blogs de milhas) e anote os percentuais. Assim você aprende o que é bônus comum e o que é bônus bom para cada programa.",
+        "Leia o regulamento: faixas de bônus (por categoria, por clube, por valor transferido), limite de milhas bônus, prazo de crédito e validade das milhas bônus.",
+        "Faça o cadastro na página da campanha, quando houver, ANTES de transferir, e guarde um print.",
+        "Transfira dentro do prazo, com o mesmo CPF, e confira se o bônus caiu no prazo prometido. Se não cair, reclame com o número do protocolo.",
+        "Se a campanha tiver bumerangue (a Livelo devolve parte dos pontos transferidos), anote quando os pontos voltam e quando eles vencem."
+      ],
+      "armadilhas": [
+        "Transferir porque o bônus está alto, sem destino: 100% de bônus sobre milhas que vencem sem uso é prejuízo total.",
+        "Contar com o bônus máximo anunciado ('até X%'): a sua faixa depende de categoria, clube e valor transferido.",
+        "Assinar um clube só para pegar a faixa maior sem pôr a mensalidade na conta do CPM.",
+        "Esquecer que as milhas bônus costumam vencer antes das milhas básicas.",
+        "Esperar para sempre o bônus perfeito: as faixas mudam, e os pontos do banco também vencem."
+      ],
+      "dica": "Calcule o bônus efetivo. Exemplo com números fictícios: você transfere 10.000 pontos com 80% de bônus e recebe 18.000 milhas. Se a campanha tiver bumerangue de 20%, a Livelo devolve 2.000 pontos semanas depois. Se esses 2.000 pontos forem transferidos de novo numa campanha de 80%, viram mais 3.600 milhas: 21.600 no total, ou 116% a mais que os 10.000 pontos de partida. Sem nova campanha, os 2.000 pontos ficam no banco. Os percentuais de bônus e de bumerangue mudam a cada campanha.",
+      "videos": [
+        {
+          "titulo": "NÃO TRANSFIRA seus pontos antes de ver esse vídeo!",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=0LttdJlTrz8",
+          "publicado": "2026-02-04",
+          "duracao": "9:19",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "O título é chamativo, mas o conteúdo é sério: como decidir entre transferir agora ou esperar, com base numa matéria do Melhores Cartões (jan/2026). A matéria traz bônus de referência por programa, admite que não dá para prever a próxima campanha e recomenda não estocar milhas. Auditado pela descrição e pela matéria ligada; o vídeo tem legenda manual, mas a transcrição não estava acessível.",
+            "alerta": "Os bônus de referência (em jan/2026: Azul 90%, Smiles 80%, LATAM 30%) são uma foto daquele momento. Meses depois, outras fontes já tratavam 70% como o novo normal para a Azul. Use como régua, não como regra: o que decide é o CPM final e ter destino."
+          }
+        },
+        {
+          "titulo": "QUANDO VALE A PENA TRANSFERIR MEUS PONTOS (LATAM, Azul e Smiles) | Fontes de Pontos",
+          "canal": "Fontes de Pontos",
+          "url": "https://www.youtube.com/watch?v=h9HVRHT1PtU",
+          "publicado": "2026-03-08",
+          "duracao": "7:55",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Curto e didático: o que é a transferência bonificada, um exemplo real de Livelo para Azul, quanto cada programa costuma bonificar e quanto de bônus vale aproveitar. Canal pequeno, sem venda de produto na descrição. Auditado por título, descrição e capítulos.",
+            "alerta": "As faixas de bônus 'de costume' refletem o histórico até mar/2026. A descrição fala em 'multiplicar milhas': o bônus só reduz custo se você já ia transferir. O vídeo não trata de bumerangue nem da validade menor das milhas bônus; veja o texto desta aula."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=dBSNdOHF5Zs", "motivo": "Bom exemplo de conta completa com regulamento, mas sobre uma campanha específica (Livelo → LATAM Pass, 25%) que acabou em 22/09/2026. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=4oFkBMbT-EU", "motivo": "Passo a passo útil (inclui o cadastro na campanha), mas curto e restrito a Livelo → Smiles. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=l6IUprVPV_A", "motivo": "Levantamento interessante da frequência das campanhas, mas a descrição abre com cupom de curso pago e oferece 'Balcão de Milhas' (venda de milhas)." },
+        { "url": "https://www.youtube.com/watch?v=Q3E3st-UYSg", "motivo": "Depende de benefício do Clube LATAM Pass (tema da aula de clubes), que está mudando; descrição voltada à venda de consultoria." },
+        { "url": "https://www.youtube.com/watch?v=8ENCDMgUp7c", "motivo": "Campanha específica de fev/2025 com 'hack' e funil de mentoria e curso." },
+        { "url": "https://www.youtube.com/watch?v=j1sFU1rwKaU", "motivo": "Bumerangue apresentado como 'Como lucrar +R$ 1.000', publicado há cerca de 5 anos." },
+        { "url": "https://www.youtube.com/watch?v=LVpiGHWuC2U", "motivo": "Boa explicação do cálculo do bumerangue, mas é de 2022 e a descrição leva a grupo com 'cotações de venda de milhas'." }
+      ]
+    },
+    {
+      "id": "cpm-custo-do-milheiro",
+      "nome": "CPM: o custo do milheiro",
+      "porque": "O CPM (custo por milheiro) é quanto você pagou, em reais, por cada 1.000 milhas que chegaram na conta. Sem ele não dá para saber se um clube, uma compra de pontos ou uma transferência foi bom negócio, nem se vale usar milhas ou pagar a passagem em dinheiro. É a conta que separa economia de ilusão.",
+      "passos": [
+        "Some tudo o que você pagou para ter as milhas: compra de pontos, mensalidade de clube, taxas. Para pontos que vieram do cartão sem custo extra, use quanto custaria repor esses pontos numa promoção.",
+        "Calcule as milhas recebidas: pontos × paridade × (1 + bônus). Ex.: 10.000 pontos, paridade 1:1 e 70% de bônus = 17.000 milhas.",
+        "CPM = total pago ÷ milhas recebidas × 1.000. Use a calculadora 'Custo (CPM)' do site e refaça as contas que aparecem nos vídeos.",
+        "Na hora de emitir, calcule o valor do resgate: (preço em dinheiro − taxas do resgate) ÷ milhas × 1.000, e compare com o seu CPM (calculadora 'Usar milhas?').",
+        "Registre numa planilha simples: data, origem, custo, milhas, CPM e validade. Com o tempo você tem um CPM médio por programa."
+      ],
+      "armadilhas": [
+        "Comparar CPM entre programas como se fosse a mesma moeda: cada companhia cobra quantidades diferentes de milhas pelo mesmo voo, então R$ 15 num programa pode ser caro e R$ 22 em outro pode ser barato.",
+        "Confundir milheiro de pontos do banco com milheiro de milhas: R$ 30 por 1.000 pontos não é R$ 30 por 1.000 milhas; depende do bônus da transferência.",
+        "Esquecer custos: mensalidade de clube, anuidade paga só pelos pontos, taxas de embarque do resgate.",
+        "Tratar o 'milheiro de referência' de um vídeo como meta fixa: essas faixas mudam a cada poucos meses.",
+        "Usar o preço de venda de milhas em balcões como 'valor' das suas milhas: vender viola os regulamentos (etapa 7)."
+      ],
+      "dica": "Exemplo com números fictícios, igual à calculadora: você pagou R$ 300 por 10.000 pontos e transferiu com 70% de bônus, recebendo 17.000 milhas. CPM = 300 ÷ 17 = R$ 17,65. Agora o resgate: passagem de R$ 600 em dinheiro ou 25.000 milhas + R$ 50 de taxa. Valor do milheiro = (600 − 50) ÷ 25 = R$ 22,00. Como R$ 22,00 passa de R$ 17,65 com folga (mais de 15%, a margem que a calculadora usa), usar milhas compensa. Se a mesma passagem custasse R$ 450, o valor cairia para (450 − 50) ÷ 25 = R$ 16,00, e pagar em dinheiro seria melhor.",
+      "videos": [
+        {
+          "titulo": "COMO CALCULAR O VALOR DO MILHEIRO: Azul, Smiles e LATAM - Dicas e Promoções!",
+          "canal": "Vivi por aí - Milhas",
+          "url": "https://www.youtube.com/watch?v=5nQBfWrSsBA",
+          "publicado": "2025-02-16",
+          "duracao": "21:50",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "O miolo do vídeo (de 03:38 a 14:50) ensina a calcular o milheiro em promoções diferentes: compra com desconto, transferência bonificada e compra no carrinho. O método não envelhece. Sem venda de produto na descrição. É de fev/2025. Auditado por título, descrição e capítulos.",
+            "alerta": "As referências do fim do vídeo (R$ 15 para Smiles e Azul, R$ 24 para LATAM) são de fev/2025: não use como meta hoje. Apesar do título, o foco é o custo de aquisição; comparar com o valor do resgate é o segundo passo (veja o outro vídeo). Refaça as contas na calculadora de CPM do site."
+          }
+        },
+        {
+          "titulo": "Smiles: por que sua milha barata não vira passagem barata?",
+          "canal": "O PLANEJANTE",
+          "url": "https://www.youtube.com/watch?v=nC2VLSN4t5w",
+          "publicado": "2026-10-10",
+          "duracao": "15:05",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Liga o CPM ao custo real da emissão: milha comprada barata não garante passagem barata. A descrição lista os dados usados, com 'verificado em outubro de 2026' e aviso de que as regras mudam, uma transparência rara. Canal pequeno, sem venda de produto. Auditado por título e descrição detalhada.",
+            "alerta": "É focado em Smiles e cobre muita coisa em 15 minutos (Viaje Fácil, parceiras, buscadores, conta família), que são temas das etapas 4 e 6. Aqui, preste atenção na parte de CPM e de custo da emissão. Os números citados (ex.: bônus Livelo → Smiles e validade de 12 meses das milhas bônus) são de out/2026."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=-V6DEiDYFPM", "motivo": "Live séria do Melhores Destinos (ago/2026) com faixas de milheiro por programa, mas tem 1h31 e as faixas mudam rápido. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=EGTGptokTt4", "motivo": "Ensina CPM 'antes de comprar ou vender milhas' e leva a curso pago e a gestão terceirizada de milhas." },
+        { "url": "https://www.youtube.com/watch?v=x3V0BOkUF8w", "motivo": "Promete 'lucre com milhas' e tem cerca de 5 anos." },
+        { "url": "https://www.youtube.com/watch?v=RdKV4bx8n6A", "motivo": "Ainda usa 'TudoAzul' e a descrição é dominada por grupo pago e produtos do autor." },
+        { "url": "https://www.youtube.com/watch?v=mBA_T2WwIpE", "motivo": "Tema certo (milhas ou dinheiro), mas a descrição vende acesso a 'balcão de milhas' (venda)." },
+        { "url": "https://www.youtube.com/watch?v=awDqyqXKmWc", "motivo": "Boa variedade de cálculos, mas é de 2023, com promoções e valores antigos, e a descrição é um convite a grupo pago." },
+        { "url": "https://www.youtube.com/watch?v=TmiD6d8Ayk4", "motivo": "Live que não está disponível para assistir (status offline)." }
+      ]
+    },
+    {
+      "id": "clubes-de-assinatura",
+      "nome": "Clubes de assinatura",
+      "porque": "Clube de assinatura é uma mensalidade que entrega pontos ou milhas todo mês, mais vantagens como bônus maior nas transferências, descontos e, em alguns, pontos que não vencem enquanto o clube estiver ativo. Ele pode baixar o seu CPM, mas é um gasto fixo que continua saindo da conta quando você para de viajar. A decisão é de conta, não de promessa.",
+      "passos": [
+        "Calcule o CPM do clube: mensalidades do período ÷ (pontos do plano + bônus de adesão) × 1.000. Se forem pontos de banco, divida também por (1 + bônus típico de transferência) para ter o custo por milha. Use a calculadora 'Custo (CPM)'.",
+        "Compare com a alternativa avulsa: comprar pontos ou milhas em promoção só quando houver uma passagem em vista.",
+        "Só assine com promoção de adesão e leia o regulamento: permanência mínima e multa, como o bônus é pago (às vezes parcelado), o que acontece com a validade dos pontos se cancelar e se há carência para nova promoção depois de cancelar.",
+        "Escolha o clube do programa que você usa de verdade: o do banco, se ainda não tem destino definido; o da companhia, se já sabe por onde vai voar.",
+        "Ponha um lembrete para revisar o clube a cada 6 meses e antes de a promoção de adesão acabar. Cancele ou reduza o plano se a conta não fechar."
+      ],
+      "armadilhas": [
+        "Assinar pelo bônus de adesão e esquecer que depois vem a mensalidade cheia, com CPM bem maior.",
+        "Plano maior que o uso: pontos acumulando sem destino, sujeitos à desvalorização.",
+        "Cancelar sem ler o regulamento: os pontos do clube podem passar a vencer, e pode haver um período sem acesso a novas promoções de adesão.",
+        "Trocar um plano antigo por um novo sem fazer a conta: o Clube Livelo mudou em out/2026 e planos antigos podem ter condições que não voltam.",
+        "Somar vários clubes 'porque cada um dá um benefício': a soma das mensalidades passa fácil do que você economiza."
+      ],
+      "dica": "Exemplo com números fictícios: clube de R$ 50 por mês que dá 1.000 pontos/mês, com bônus de adesão de 12.000 pontos no primeiro ano. Em 12 meses: R$ 600 pagos e 24.000 pontos. Custo: 600 ÷ 24 = R$ 25 por milheiro de pontos. Transferidos com 80% de bônus, viram 43.200 milhas: 600 ÷ 43,2 = R$ 13,89 por milheiro de milhas. No segundo ano, sem o bônus de adesão: 600 ÷ 12 = R$ 50 por milheiro de pontos e 600 ÷ 21,6 = R$ 27,78 por milheiro de milhas. Por isso a regra é revisar o clube quando a promoção acaba.",
+      "videos": [
+        {
+          "titulo": "Comparativo completo de clubes de pontos e milhas 2026 | ALL, Azul, Smiles, Latam, Livelo, Esfera",
+          "canal": "Pedro Gerador | Viagens sem perrengue",
+          "url": "https://www.youtube.com/watch?v=6jE4WYNF7Nk",
+          "publicado": "2026-06-25",
+          "duracao": "30:58",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Compara sete clubes (Livelo, Esfera, ALL Accor, Azul, Smiles, LATAM Pass e TAP), com planilha pública, e diz qual o autor assina e por quê. Bom para aprender a lógica do custo de cada clube. Auditado por título e descrição.",
+            "alerta": "Gravado em jun/2026, antes de duas mudanças: o Clube Livelo trocou 7 planos por 3 (Essencial, Especial e Premium) em out/2026, e o LATAM Pass anunciou um clube novo em out/2026. Aproveite a lógica, não os preços. Ignore a consultoria paga da descrição; os links de adesão são de campanhas de junho."
+          }
+        },
+        {
+          "titulo": "Clube Livelo vale a pena em 2026? Estou perto de cancelar",
+          "canal": "Lucas Fialho - Pense Como Rico",
+          "url": "https://www.youtube.com/watch?v=FbyZMrNnmN4",
+          "publicado": "2026-10-21",
+          "duracao": "11:24",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Um assinante antigo refaz a conta do próprio clube depois da queda do bônus para a Azul e conclui que, no plano mais caro, pagou mais que quem comprou pontos + dinheiro. É um bom exemplo de revisar (e cancelar) um clube. A conta da descrição confere: pontos a R$ 30 o milheiro com 70% de bônus = 30 ÷ 1,7 ≈ R$ 17,65 (o vídeo diz R$ 17,64). Auditado por descrição e capítulos.",
+            "alerta": "Parte do vídeo é opinião, e o próprio autor chama de hipótese a 'rixa' entre Azul e Livelo. A descrição empurra curso de agência de viagens e um treinamento 'como viajar de graça': ignore. Antes de cancelar, veja no regulamento o que acontece com a validade dos pontos e com o bônus por tempo de clube."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=-_0KoMuxjRA", "motivo": "Atual (out/2026), com os planos novos do Clube Livelo e as regras de cancelamento, mas o canal tem poucas semanas e pouca audiência, e não deu para avaliar o conteúdo falado. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=WQHP8mXGySs", "motivo": "Análise detalhada do novo Clube LATAM Pass (out/2026), mas específica de um programa e com 36 minutos. Fica como reserva para quem usa LATAM." },
+        { "url": "https://www.youtube.com/watch?v=OJr2Y0fw_lk", "motivo": "Comparativo de jul/2026 já desatualizado nos clubes Livelo e LATAM, e funil para curso pago que o Valério avaliou com nota baixa." },
+        { "url": "https://www.youtube.com/watch?v=sW26V3L9Wh8", "motivo": "As 5 regras são úteis, mas o vídeo trata 'viagem ou lucro' como objetivo e a descrição leva a 'Como lucrar com o cartão'." },
+        { "url": "https://www.youtube.com/watch?v=bCkKeHZ42_o", "motivo": "Ensina a cancelar o Clube Smiles, mas é de jan/2025 e a descrição vende curso e 'Balcão de Milhas'." },
+        { "url": "https://www.youtube.com/watch?v=q2fwRQSPT1Q", "motivo": "Tema atual (novos Clubes Livelo), mas a descrição é só anúncio de curso vitalício de Black Friday; não deu para auditar o conteúdo." },
+        { "url": "https://www.youtube.com/watch?v=8lQ89nuLhjc", "motivo": "Publicado há cerca de 4 anos; planos e regras do Clube Livelo mudaram por completo." }
+      ]
+    },
+    {
+      "id": "compra-de-pontos",
+      "nome": "Compra de pontos com desconto",
+      "porque": "Programas de banco e companhias aéreas vendem pontos e milhas o tempo todo, muitas vezes com 'desconto' ou bônus. Comprar pode completar o saldo de uma passagem que já está boa. Comprar para estocar é apostar dinheiro em algo que pode vencer ou valer menos amanhã. A compra só faz sentido com destino e com o CPM final calculado.",
+      "passos": [
+        "Primeiro ache a passagem e veja quantas milhas faltam. Só depois pense em comprar.",
+        "Compare os caminhos: comprar direto na companhia (com bônus), comprar pontos no banco com desconto e transferir com bônus, ou usar pontos + dinheiro no carrinho. Calcule o CPM final de cada um na calculadora 'Custo (CPM)'.",
+        "Compare o CPM final com o valor do resgate: (preço em dinheiro − taxas) ÷ milhas × 1.000. Se não ganhar com folga, pague a passagem em dinheiro.",
+        "Leia o regulamento: prazo de crédito da compra e da transferência, limite por CPF e se dá para cancelar a compra. As milhas precisam chegar antes de a tarifa sumir.",
+        "Pague só se couber no orçamento do mês. Nunca use rotativo ou parcelamento com juros para comprar pontos."
+      ],
+      "armadilhas": [
+        "Olhar o percentual de desconto e não o preço final: '56% de desconto' sobre um preço cheio alto ainda pode dar um milheiro caro.",
+        "Comprar sem destino: dinheiro parado em milhas que podem vencer, desvalorizar ou ficar presas num programa que não serve.",
+        "Comprar pontos no banco contando com um bônus de transferência que ainda não foi anunciado.",
+        "Comprar para revender: viola os regulamentos e traz risco de bloqueio e de calote (etapa 7)."
+      ],
+      "dica": "Exemplo com números fictícios: 20.000 pontos a R$ 30,80 o milheiro = R$ 616. Transferidos com 70% de bônus, viram 34.000 milhas: CPM = 616 ÷ 34 = R$ 18,12. A passagem custa R$ 700 em dinheiro ou 30.000 milhas + R$ 60 de taxa: valor do milheiro = (700 − 60) ÷ 30 = R$ 21,33, acima de R$ 18,12 com mais de 15% de folga (R$ 20,84). Compensa. Se a passagem custasse R$ 500, o valor seria (500 − 60) ÷ 30 = R$ 14,67: pague em dinheiro. E lembre que as 4.000 milhas que sobraram também custaram dinheiro.",
+      "videos": [
+        {
+          "titulo": "Como funciona pontos mais dinheiro ou Hack do carrinho da Livelo e Esfera?",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=HUtz9S0hbGo",
+          "publicado": "2026-06-06",
+          "duracao": "12:01",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Explica a compra de pontos 'no carrinho' (pontos + dinheiro) para completar o saldo de uma emissão já encontrada. Tem capítulos com os números, como saber se o milheiro está caro ou barato e um capítulo sobre por que não vale para todo mundo. Auditado por título, descrição e capítulos.",
+            "alerta": "'Hack' e 'bug' são só apelidos: é uma compra de pontos normal, e só compensa se o CPM final ficar abaixo do valor da passagem que você já achou. A disponibilidade de pontos + dinheiro e os preços mudam."
+          }
+        },
+        {
+          "titulo": "Comprar pontos Livelo com desconto virou ARMADILHA? NÃO VALE a pena mais por que?",
+          "canal": "Lucas Fialho - Pense Como Rico",
+          "url": "https://www.youtube.com/watch?v=HmP3ATur6Sw",
+          "publicado": "2026-08-25",
+          "duracao": "8:22",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Contraponto útil: mostra que mesmo 56% de desconto ainda deixa o milheiro de pontos Livelo em R$ 30,80 e discute o risco de estocar pontos comprados. A conta confere: 56% de desconto sobre um preço cheio de R$ 70 dá R$ 30,80; com mais 5% no Pix, R$ 29,26. Auditado por descrição e capítulos.",
+            "alerta": "R$ 30,80 é o custo de 1.000 pontos Livelo, não de 1.000 milhas: o custo da milha depende do bônus da transferência (com 70%, cerca de R$ 18,12). O último capítulo e os links da descrição fazem propaganda de curso de agência de viagens, que não tem a ver com a aula."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=UN1RbItiIiU", "motivo": "Análise séria da compra de pontos Livelo com 56% de desconto, mas tem 37 minutos e é presa a uma campanha de ago/2026. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=TdyMODGxjPM", "motivo": "Tutorial de compra direta na Smiles ligado a uma campanha específica (até 375% de bônus), com link rastreado da própria Smiles e sem aviso de publicidade." },
+        { "url": "https://www.youtube.com/watch?v=RvCYQKJXKKM", "motivo": "Promete '[LUCRO ALTO]' na compra de pontos Livelo." },
+        { "url": "https://www.youtube.com/watch?v=qfGnD9lYJ4A", "motivo": "A descrição só tem links de produtos pagos; não deu para auditar o conteúdo." },
+        { "url": "https://www.youtube.com/watch?v=gnMpq4EjRQQ", "motivo": "Publicado há cerca de 2 anos; preços e campanhas de compra de pontos mudaram." },
+        { "url": "https://www.youtube.com/watch?v=kAIu0Yx5PPE", "motivo": "Conceitualmente correto (quando faz sentido comprar), mas de mai/2025 e genérico. Fica como reserva." }
+      ]
+    }
+  ]
+}

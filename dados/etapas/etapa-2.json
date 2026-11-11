@@ -1,0 +1,305 @@
+{
+  "etapa": 2,
+  "aulas": [
+    {
+      "id": "escolher-o-cartao",
+      "nome": "Escolher o cartão",
+      "porque": "O cartão é o motor de quase todo o acúmulo, mas um cartão de pontos com anuidade cheia pode render menos do que um cartão simples de cashback. Escolher pela conta, e não pelo nome 'Black' ou pela propaganda, evita pagar para juntar pontos que você nem vai usar bem.",
+      "passos": [
+        "Some quanto você gasta por mês no cartão (média dos últimos 6 meses, sem contar gastos extraordinários).",
+        "Para cada cartão candidato, anote: pontos por dólar, se a conversão usa o dólar do dia da fatura, a anuidade cheia e a regra exata de isenção (gasto mínimo, investimento, relacionamento).",
+        "Calcule os pontos por ano (gasto anual ÷ cotação do dólar × pontos por dólar) e dê a eles um valor realista em reais; subtraia a anuidade que você de fato vai pagar. Use a calculadora 'A anuidade do cartão se paga?' do site.",
+        "Faça a mesma conta para um cartão de cashback sem anuidade e compare. Fique com o que der mais, considerando também se você realmente vai transferir e emitir passagens.",
+        "Se já tem um cartão caro que não se paga, ligue para o banco e peça isenção ou downgrade (troca para uma versão mais simples) antes de cancelar: assim você mantém o histórico e transfere os pontos acumulados antes."
+      ],
+      "armadilhas": [
+        "Comparar só 'pontos por dólar' e esquecer a anuidade: 2,5 pontos por dólar com R$ 1.000 de anuidade pode perder para 1 ponto sem anuidade.",
+        "Contar com isenção que depende de gasto mínimo que você não atinge sem forçar compras; gastar mais para 'bater meta' destrói o ganho.",
+        "Dar aos pontos o valor de 'venda de milhas' ou do melhor resgate visto na internet. O valor que importa é o que você consegue nos seus resgates.",
+        "Cancelar o cartão com pontos no programa do banco: em muitos programas os pontos ficam presos ou expiram. Transfira ou use antes."
+      ],
+      "dica": "Faça a conta inteira antes de pedir o cartão. Exemplo com números ilustrativos (mudam): gasto de R$ 3.000/mês, cartão de 2 pontos por dólar com anuidade de R$ 600, dólar a R$ 5,50. São R$ 36.000 ÷ 5,50 × 2 ≈ 13.090 pontos/ano. Valendo R$ 25 o milheiro, dá ≈ R$ 327, e com a anuidade o resultado fica em −R$ 273. Mesmo transferindo com 100% de bônus (≈ 26.180 milhas ≈ R$ 655), sobram só ≈ R$ 55 depois da anuidade. Um cartão de 1% de cashback sem anuidade devolve R$ 360 garantidos. Pontos só ganham se você conseguir isenção ou um valor de resgate bem maior.",
+      "videos": [
+        {
+          "titulo": "Cashback Ou Milhas: Qual Rende Mais Pra Você",
+          "canal": "Rodrigo Goes",
+          "url": "https://www.youtube.com/watch?v=aE4CCZTR6v8",
+          "publicado": "2026-07-10",
+          "duracao": "14:46",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Médio",
+            "veredito": "Tema central da aula, recente, e a proposta declarada é mostrar com conta quando cada opção vale mais, admitindo que para parte das pessoas cashback é melhor. Auditado só por título e descrição (sem transcrição), e a descrição é funil para curso pago e traz link de indicação do Méliuz.",
+            "alerta": "O resultado depende do valor que se dá ao milheiro. Refaça a conta com o valor que você realmente consegue nos seus resgates (nunca com preço de venda de milhas) e descontando a anuidade. O canal vende curso com promessa de retorno; ignore o funil."
+          }
+        },
+        {
+          "titulo": "Como escolher um cartão de crédito?",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=bOw7Q45mqZE",
+          "publicado": "2025-07-04",
+          "duracao": "56:36",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Baixo",
+            "veredito": "Live de um canal sério sobre o método de escolha (perfil de gasto, pontuação, anuidade), sem promessa de renda. É longa, tem mais de um ano e a descrição é curta, então foi auditada com pouca confiança.",
+            "alerta": "Os cartões citados, suas pontuações e regras de isenção podem ter mudado desde julho de 2025. Aproveite o raciocínio e confira cada número no site do emissor antes de pedir o cartão."
+          }
+        }
+      ],
+      "descartados": [
+        {
+          "url": "https://www.youtube.com/watch?v=uU1LSHAyW48",
+          "motivo": "Me Poupe!/Estevam: ranking de '5 melhores cartões', que envelhece rápido, usado como funil para curso pago; pouco método."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=cmYze6urpl4",
+          "motivo": "Gêmeos Investem: ranking por faixa de renda com linguagem caça-clique e links de afiliado de cripto e investimentos na descrição."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Fei5Ec9vNxw",
+          "motivo": "Helder Jhones: lista curta de cartões; descrição abre com promessa de 'ganhar dinheiro todos os dias'."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=C3nwreyJ2ck",
+          "motivo": "Caio Milhas: conclusão enviesada ('para 90%+ das pessoas: milhas, matemática não mente') sem considerar anuidade e uso real."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9tc6ImQv3Ek",
+          "motivo": "Rodrigo Goes, 2021: antigo, e a descrição vende curso com 'renda extra' e '1º milhão de milhas em 6 meses'."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=SL0fSzY5j3s",
+          "motivo": "Maira Melgaço: canal sem histórico no nicho; descrição vaga, nada auditável."
+        }
+      ]
+    },
+    {
+      "id": "shoppings-de-pontos",
+      "nome": "Shoppings de pontos e lojas parceiras",
+      "porque": "Shopping Livelo, Shopping Smiles, Esfera e similares dão vários pontos por real em lojas conhecidas, às vezes bem mais que o cartão. Só que a compra bonificada só é vantagem se o produto já ia ser comprado e o preço for bom; senão, você está pagando caro por pontos.",
+      "passos": [
+        "Antes de comprar algo que você já planejava, pesquise o menor preço do produto (inclusive no Pix) em outras lojas.",
+        "Entre no shopping do programa (Livelo, Smiles, Esfera etc.), veja quantos pontos por real a loja dá hoje e acesse a loja pelo link do programa, logado na sua conta.",
+        "Calcule quanto você paga a mais em relação ao menor preço e divida pelos pontos que vai ganhar: isso é o custo do milheiro dessa compra. Só compre se esse custo for baixo para você.",
+        "Salve prints da oferta (pontos por real, regulamento e preço) e o número do pedido; desative bloqueadores de anúncio e não troque de aba no meio da compra.",
+        "Anote a data prevista de crédito dos pontos (costuma levar dias ou semanas) e cobre o programa com os prints se eles não caírem."
+      ],
+      "armadilhas": [
+        "Comprar algo que você não ia comprar só por causa dos pontos: nesse caso o custo é o preço inteiro do produto.",
+        "Pagar mais caro na loja parceira do que em outra loja e não fazer a conta da diferença.",
+        "Achar que os pontos são garantidos: frete, cupons de fora, devoluções e algumas categorias costumam ficar de fora do cálculo, e o crédito pode atrasar ou não acontecer.",
+        "Deixar os pontos acumulados parados até vencerem."
+      ],
+      "dica": "Faça a conta da diferença de preço. Exemplo ilustrativo: o produto custa R$ 699 no Pix em uma loja e R$ 777 numa parceira que dá 10 pontos por real (7.770 pontos). Você paga R$ 78 a mais, ou seja, R$ 78 ÷ 7,77 ≈ R$ 10 por milheiro. Se você costuma usar seus pontos valendo bem mais que isso, compensa. Agora outro caso: R$ 500 com 5 pontos por real (2.500 pontos) contra R$ 450 em outra loja. São R$ 50 por 2.500 pontos, R$ 20 o milheiro, e provavelmente não vale.",
+      "videos": [
+        {
+          "titulo": "Vale pagar R$ 78 a mais para ganhar 7.770 pontos na Black Friday? Compras Bonificadas",
+          "canal": "Joaquim - Portal Viajar",
+          "url": "https://www.youtube.com/watch?v=YGUXm0_G5j8",
+          "publicado": "2026-11-09",
+          "duracao": "17:29",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Exatamente o que a aula pede: compara o mesmo produto no Pix e no cartão, calcula o custo dos pontos pela diferença de preço e ensina a guardar comprovantes para quando os pontos não caem. Auditado por descrição e capítulos detalhados, sem transcrição.",
+            "alerta": "A conclusão do vídeo usa um valor de milheiro e uma transferência bonificada futura; se você não vai transferir e emitir, os pontos valem menos. Cuidado com a urgência da Black Friday: a conta só vale para o que você já ia comprar."
+          }
+        },
+        {
+          "titulo": "Compra Bonificada Vale Mesmo a Pena? Analisei Meus Gastos Reais!",
+          "canal": "Diego Branco",
+          "url": "https://www.youtube.com/watch?v=FHUljb3Y8Wo",
+          "publicado": "2026-10-08",
+          "duracao": "10:01",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Baixo",
+            "veredito": "Bom complemento: mostra pedidos reais (valor pago x pontos creditados) e discute quando compensa e quando evitar. Canal pequeno, com consultoria paga e link de indicação na descrição. Auditado só pela descrição e pelos capítulos.",
+            "alerta": "O 'valor real' dos pontos depende de como você resgata; refaça a conta com os seus números. Lembre que os pontos de shopping costumam demorar para cair e podem ter validade própria."
+          }
+        }
+      ],
+      "descartados": [
+        {
+          "url": "https://www.youtube.com/watch?v=qonYCIrEjXo",
+          "motivo": "João Carvalho: guia da Livelo com funil de 'torne o mundo das milhas o seu negócio' e promessa de viajar 'quase de graça'."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vC9ANLymugs",
+          "motivo": "Rico Gelli: descrição promove 'renda extra com a venda das suas milhas' e dezenas de links de indicação."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Hcpt5OAHSXs",
+          "motivo": "Shopping Smiles, 2020: interface e regras desatualizadas."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EEJwNrKdA_8",
+          "motivo": "Máquina de Milhas, 2021: antigo e com título caça-clique."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=HUtz9S0hbGo",
+          "motivo": "Melhores Destinos ('hack do carrinho'): bom, mas trata de compra de pontos; fica para a Etapa 3."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=tCiuoJ1ukvg",
+          "motivo": "Passageiro de Primeira: caso de uma loja só (SHEIN), com link rastreado; estreito demais para a aula."
+        }
+      ]
+    },
+    {
+      "id": "acumulo-fora-do-cartao",
+      "nome": "Acúmulo fora do cartão",
+      "porque": "Postos de combustível, apps de transporte e delivery, supermercados e o pagamento de contas podem somar pontos ao mesmo gasto que já passa pelo cartão. Mas alguns caminhos, como pagar boleto no cartão via app, cobram taxa, e aí o milheiro sai caro.",
+      "passos": [
+        "Liste seus gastos recorrentes que não pontuam hoje: combustível, mercado, apps, contas de consumo, escola, condomínio.",
+        "Para cada um, veja se há programa do próprio estabelecimento ligado a Livelo, Smiles, LATAM Pass ou Azul (postos, redes de mercado, apps) e cadastre o mesmo CPF da sua conta no programa.",
+        "Some os pontos do programa parceiro aos do cartão: é o mesmo gasto pontuando duas vezes, sem gastar mais.",
+        "Antes de pagar uma conta ou boleto no cartão por app, veja a taxa de conveniência e calcule o custo do milheiro (taxa em reais ÷ pontos ganhos × 1.000). Se passar do que você paga normalmente pelos pontos, não faça.",
+        "Confira de tempos em tempos se os pontos de parceiros estão caindo; regras e paridades mudam sem muito aviso."
+      ],
+      "armadilhas": [
+        "Pagar boleto no cartão com taxa de 3% a 5% achando que é 'de graça': a taxa quase sempre torna o milheiro caríssimo.",
+        "Usar o pagamento de contas no cartão para empurrar a dívida para o mês seguinte. Se a fatura não fecha, o rotativo come qualquer ganho em pontos.",
+        "Trocar de posto ou mercado para um mais caro só por causa dos pontos.",
+        "Cadastrar CPF diferente ou esquecer de vincular a conta do programa e perder o crédito."
+      ],
+      "dica": "Calcule o milheiro da taxa antes de pagar uma conta no cartão. Exemplo ilustrativo: um boleto de R$ 1.000 com taxa de 3,99% (R$ 39,90), num cartão de 2 pontos por dólar, com dólar a R$ 5,50, gera ≈ 378 pontos (R$ 1.039,90 ÷ 5,50 × 2). Você pagou R$ 39,90 por 378 pontos, ou R$ 105 por milheiro, muito acima do que qualquer resgate comum entrega. Taxa de conveniência só faz sentido em caso muito específico, como bater uma meta de bônus que você já calculou.",
+      "videos": [
+        {
+          "titulo": "Dá para acumular milhas sem ter cartão de crédito?",
+          "canal": "Passageiro de Primeira",
+          "url": "https://www.youtube.com/watch?v=4v5hKrkbhDM",
+          "publicado": "2026-10-14",
+          "duracao": "14:54",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Visão geral recente, de canal tradicional, sobre fontes de acúmulo fora do cartão (voos, apps de transporte, compras bonificadas), sem promessa de renda. A descrição é curta, então foi auditado com pouca confiança.",
+            "alerta": "Os pontos de parceiros costumam ser poucos por real; não espere grande volume. Confira as regras atuais de cada parceiro no site do programa, porque elas mudam com frequência."
+          }
+        },
+        {
+          "titulo": "🎫 Pague Boleto no Cartão 2026 (Sem taxas e com taxas) | Papo de Milhas",
+          "canal": "Papo de Milhas com João Paulo",
+          "url": "https://www.youtube.com/watch?v=WK8idw8XlM8",
+          "publicado": "2025-10-05",
+          "duracao": "11:54",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Lista na descrição as taxas de vários apps para pagar boletos e contas no cartão e faz a conta do custo do milheiro: no próprio exemplo, um boleto de R$ 3.000 com 2,95% de taxa gera pontos a ≈ R$ 34 o milheiro. Conferi a conta e ela bate. Auditado pela descrição, sem transcrição.",
+            "alerta": "As taxas mudam com frequência; confira no app antes de pagar. O exemplo usa um cartão de altíssima renda (5 pontos por dólar); com um cartão comum o milheiro sai muito mais caro. Nunca use o pagamento de contas no cartão para rolar dívida."
+          }
+        }
+      ],
+      "descartados": [
+        {
+          "url": "https://www.youtube.com/watch?v=GdffVjyZfA8",
+          "motivo": "Rodrigo Goes: descrição promete acumular 'sem gastar nenhum centavo a mais', o que contradiz as taxas de conveniência; funil de curso."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=bKKpS3_HJx8",
+          "motivo": "Milhas com Matheus: tema certo, mas a descrição só tem links de afiliado e nada auditável; preferido o vídeo que expõe as taxas."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=I3z18MxGwgc",
+          "motivo": "Me Poupe!/Estevam: '3 truques' sem detalhe verificável, usado como funil para curso."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jBToW2B4X9Y",
+          "motivo": "Rodrigo Goes: a descrição vende curso com 'renda extra' e '1º milhão de milhas em 6 meses'."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=T6M5OLn6MJs",
+          "motivo": "João Carvalho, 2024: comparativo de programas de postos; regras e paridades já mudaram."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=YTI4J2QA-ZA",
+          "motivo": "DIA23, 2022: comparativo de postos desatualizado."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-qYZBE0anhc",
+          "motivo": "Milhas com Matheus: título caça-clique ('o acúmulo impossível') e nenhuma descrição auditável."
+        }
+      ]
+    },
+    {
+      "id": "milhas-voando",
+      "nome": "Milhas voando: utilizáveis x qualificáveis",
+      "porque": "Quem compra passagem em dinheiro e não pede as milhas está deixando pontos na mesa. Também é preciso separar as milhas que você gasta em passagens (utilizáveis) dos pontos que só servem para subir de categoria (qualificáveis), porque status raramente compensa para quem voa pouco.",
+      "passos": [
+        "Cadastre-se de graça nos programas das companhias em que você voa e coloque o número de fidelidade em toda reserva paga.",
+        "Depois do voo, confira se as milhas e os pontos qualificáveis caíram; se não, peça o crédito retroativo no site ou app dentro do prazo do programa, com o localizador e o número do bilhete.",
+        "Entenda que passagem emitida com milhas, em geral, não gera milhas nem pontos qualificáveis, e que tarifas mais baratas (tipo 'basic') pontuam menos.",
+        "Calcule quantos pontos qualificáveis você junta por ano voando e com o cartão e compare com o primeiro nível. Se não chega perto, não mude seu comportamento para correr atrás de status.",
+        "Se voa por uma aliança, veja se vale mais creditar o voo em um programa parceiro (por exemplo, um estrangeiro) do que no da companhia."
+      ],
+      "armadilhas": [
+        "Escolher voo mais caro ou com conexão só para juntar qualificáveis: o custo extra quase sempre supera o benefício.",
+        "Esquecer de colocar o número de fidelidade e perder o prazo do crédito retroativo.",
+        "Assinar clube ou cartão caro só porque 'dá status' sem saber se os benefícios (bagagem, assento, upgrade) você realmente usaria.",
+        "Achar que status garante upgrade: depende de tarifa, de assento livre e de fila de prioridade."
+      ],
+      "dica": "Antes de sonhar com status, faça a conta. Exemplo com regras ilustrativas (variam por programa e mudam): se o programa dá 3 pontos qualificáveis por real em tarifa e o primeiro nível pede 12.000, você precisaria de R$ 4.000 por ano em passagens pagas, sem contar taxas. Se você gasta R$ 800 por ano com voos, chega a 2.400 pontos, 20% do caminho. Nesse caso, foque em creditar as milhas utilizáveis e esqueça o status.",
+      "videos": [
+        {
+          "titulo": "LATAM PASS Ainda Vale a Pena em 2026? Como Funciona o Programa (Guia Completo)",
+          "canal": "DIA23",
+          "url": "https://www.youtube.com/watch?v=M4ZB4IYH1-o",
+          "publicado": "2026-10-22",
+          "duracao": "20:45",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Explica bem a diferença entre milha e ponto qualificável (passagem com milhas não gera nenhum dos dois, e o ponto qualificável não se compra nem se transfere), mostra quanto voo e cartão geram e tem o capítulo 'o cartão sozinho não te leva ao Gold'. É focado só na LATAM. Auditado pela descrição e pelos capítulos, que são bem detalhados.",
+            "alerta": "O 'valor da milha' do vídeo vem de preços de balcão de compra e venda de milhas. Esse não é o valor para você, e vender milhas viola o regulamento e pode levar a bloqueio. Os números de categorias, clubes e tabela são de outubro de 2026 e mudam."
+          }
+        },
+        {
+          "titulo": "VALE A PENA SUBIR DE STATUS NA LATAM PASS? ANÁLISE SINCERA",
+          "canal": "GuNasPraias",
+          "url": "https://www.youtube.com/watch?v=XAId7sdm22E",
+          "publicado": "2026-09-24",
+          "duracao": "9:51",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Baixo",
+            "veredito": "Questiona com ceticismo se correr atrás de status compensa: fala da dificuldade de chegar ao topo, de upgrades que viraram leilão e compara com Azul e Smiles. É curto e recente. Tem um capítulo de propaganda da assessoria do autor. Auditado pela descrição e pelos capítulos.",
+            "alerta": "O vídeo mira quem gasta bastante e quer executiva; para iniciante, a conclusão prática costuma ser 'não persiga status'. Pule o trecho da assessoria paga (07:15)."
+          }
+        }
+      ],
+      "descartados": [
+        {
+          "url": "https://www.youtube.com/watch?v=Qyictg9O3bw",
+          "motivo": "Embarque Prioritário, 2023: metas e categorias de Smiles, LATAM e Azul mudaram desde então."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=IkbR4iqX4OQ",
+          "motivo": "Norton Reveno, 2020: categorias Smiles desatualizadas."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=I_vSvNXRwbQ",
+          "motivo": "LATAM Airlines: vídeo institucional de 1:25 que só incentiva subir de categoria, sem senso crítico."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WDOoZhK_xmY",
+          "motivo": "Hub de Milhas: a descrição é quase toda venda de curso vitalício."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EcxtWotYpJ4",
+          "motivo": "Sara Reis: tema exato, mas a descrição não traz conteúdo auditável (só links de grupos pagos); alternativa possível."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=L_9uAuegRk4",
+          "motivo": "Pedro Gerador: 56 min sobre estratégias de elite, avançado demais para a etapa básica."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=5yUO167bsH8",
+          "motivo": "Rodrigo Goes, 2022: antigo e com viés pró-status ('por que você deve acumular')."
+        }
+      ]
+    }
+  ]
+}

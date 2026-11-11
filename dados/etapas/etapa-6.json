@@ -1,0 +1,226 @@
+{
+  "etapa": 6,
+  "aulas": [
+    {
+      "id": "aliancas-e-parceiras",
+      "nome": "Alianças e companhias parceiras",
+      "porque": "Para fora do Brasil, quase nunca você voa na companhia dona do seu programa. LATAM, GOL e Azul não fazem parte de nenhuma das três grandes alianças (Star Alliance, oneworld e SkyTeam): cada programa tem a sua própria lista de parceiras. Saber quem emite em quem é o que transforma milhas nacionais num voo para a Europa, os EUA ou a Ásia, e evita transferir pontos para um programa que não emite na rota que você quer.",
+      "passos": [
+        "Comece pela rota, não pelo programa: no Google Flights, veja quais companhias voam do Brasil (ou de um hub próximo) até o seu destino.",
+        "Descubra a aliança de cada uma dessas companhias e, principalmente, quais programas que você consegue alimentar emitem nelas: abra a página de companhias parceiras de Smiles, LATAM Pass e Azul Fidelidade e anote a data da consulta.",
+        "Procure assento em tarifa-prêmio (award) da parceira no site do próprio programa e, se quiser, cruze com buscadores como o seats.aero ou com o site de outra companhia da mesma aliança (ex.: United para a Star Alliance).",
+        "Compare o mesmo voo em dois ou mais programas: milhas + taxas, tudo convertido em reais. Só então decida para onde transferir os pontos do banco.",
+        "Se o voo da parceira não aparece no site, confirme com a central do programa se a emissão é feita por telefone ou WhatsApp antes de transferir qualquer ponto."
+      ],
+      "armadilhas": [
+        "Achar que a aliança basta: o que vale é o acordo entre o seu programa e aquela companhia. Ser parceira de uma companhia da aliança não dá acesso automático a todas as outras.",
+        "Transferir pontos antes de confirmar o assento na data: a transferência é de mão única e a disponibilidade em parceira some rápido.",
+        "Confundir tarifa-prêmio (award) com tarifa comercial vendida em milhas: a comercial acompanha o preço em dinheiro e costuma custar bem mais milhas.",
+        "Ignorar as taxas: em parceiras internacionais, taxas de embarque e eventuais sobretaxas podem somar centenas ou até milhares de reais, conforme a companhia e o programa."
+      ],
+      "dica": "Ache o voo primeiro e só depois escolha o programa. Exemplo com números fictícios para o mesmo assento: Programa A cobra 80.000 milhas + R$ 600; Programa B cobra 60.000 milhas + R$ 1.800. Se o milheiro do A te custa R$ 25 e o do B R$ 30: A = 80 × 25 + 600 = R$ 2.600; B = 60 × 30 + 1.800 = R$ 3.600. Menos milhas não quer dizer mais barato: as taxas mudaram o resultado.",
+      "videos": [
+        {
+          "titulo": "MILHAS para INICIANTES: ALIANÇAS e PARCERIAS",
+          "canal": "Matteo Sabatini | Embarque Prioritário",
+          "url": "https://www.youtube.com/watch?v=UNS_mwBCdtc",
+          "publicado": "2026-01-06",
+          "duracao": "12:49",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Introdução curta e bem dividida: o que é uma aliança, quais são as três, como funcionam as parcerias, um exemplo de como descobrir qual companhia voa para um país, status e resgate. Sem promessa de lucro. Auditado pela descrição e capítulos.",
+            "alerta": "O trecho sobre status (milhas qualificáveis) é secundário para esta aula. O que importa: as companhias brasileiras não estão em alianças, então vale a lista de parceiras de cada programa, que muda. A descrição divulga roteiros pagos e e-books do autor; não precisa de nada disso."
+          }
+        },
+        {
+          "titulo": "OneWorld, StarAlliance, SkyTeam | Qual oferece os melhores voos? Mas e Azul, Gol e Latam?",
+          "canal": "Pedro Gerador | Viagens sem perrengue",
+          "url": "https://www.youtube.com/watch?v=USmhsq1273A",
+          "publicado": "2026-05-17",
+          "duracao": "37:23",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Vai além do conceito: cobre as três alianças, as parcerias das companhias brasileiras e uma busca prática com Google Flights, seats.aero e uma planilha de apoio. É o 'como buscar parceiras' que falta no primeiro vídeo, mas é longo. Auditado pela descrição; sem capítulos nem transcrição acessível.",
+            "alerta": "O seats.aero mostra disponibilidade de uma consulta anterior e parte dos recursos é paga: confirme sempre no site do programa antes de transferir pontos. A descrição traz o link da agência de viagens do autor e vídeos sobre compra de milhas (assunto da etapa 3)."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=aPaOP0-mcPw", "motivo": "Conceito claro e curto, mas é uma aula gravada em set/2024 e o próprio canal avisa que exemplos e parcerias citados são históricos. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=6Si5fIZx0U8", "motivo": "Bom passo a passo de busca de tarifa award pelo site da United, mas é de abr/2025 e cobre só a Star Alliance. Reserva." },
+        { "url": "https://www.youtube.com/watch?v=R3i-PBq2inA", "motivo": "Lista de parceiras da Smiles de cerca de 2 anos atrás; parcerias mudaram desde então." },
+        { "url": "https://www.youtube.com/watch?v=6hKCV8xWY1Y", "motivo": "Cerca de 3 anos e já no título propõe usar alianças 'para lucrar'." },
+        { "url": "https://www.youtube.com/watch?v=QqAmEwfFeyc", "motivo": "Publicado há cerca de 7 anos; o cenário de parcerias das companhias brasileiras mudou (ex.: saída da LATAM da oneworld em 2020)." }
+      ]
+    },
+    {
+      "id": "stopover-e-multidestinos",
+      "nome": "Stopover e multidestinos",
+      "porque": "Uma parada planejada numa cidade do caminho pode transformar uma viagem em duas, às vezes sem mudar o preço da passagem. Mas as regras variam muito: algumas companhias e programas permitem stopover em emissão com milhas, outros só em passagem paga, e vários cobram por isso. Entender a diferença entre escala, conexão, stopover e open jaw evita pagar mais achando que está economizando.",
+      "passos": [
+        "Aprenda os termos: escala (o avião pousa e segue, em geral no mesmo voo), conexão (troca de avião dentro do prazo da regra, normalmente até 24 horas em voo internacional), stopover (parada mais longa e planejada, no mesmo bilhete) e open jaw (chega por uma cidade e volta por outra).",
+        "Veja quais cidades são hub das companhias que voam a sua rota (ex.: Lisboa para a TAP, Cidade do Panamá para a Copa, Doha para a Qatar) e se o programa em que estão as suas milhas permite parada naquela emissão.",
+        "Leia a regra atual do programa ou da companhia: quantas paradas, por quantos dias, se cobra milhas ou taxa extra e se o pedido é feito no site ou só pela central.",
+        "Monte três alternativas e compare o custo total em reais: bilhete com stopover, trechos só de ida emitidos separadamente (multidestinos) e bilhete direto mais um voo barato entre as cidades.",
+        "Some os custos da cidade extra (hotel, transporte, alimentação) e confira exigências de entrada do país da parada."
+      ],
+      "armadilhas": [
+        "Achar que 'stopover grátis' é viagem grátis: a passagem pode não mudar, mas hotel, transporte e dias de férias custam.",
+        "Supor que a regra da passagem paga vale para milhas: muitos programas não permitem stopover em emissão com milhas, ou cobram à parte.",
+        "Emitir trechos separados sem margem de tempo: se um voo atrasa, a companhia do bilhete seguinte não tem obrigação de reacomodar você, e a bagagem não segue despachada até o fim.",
+        "Esquecer visto, seguro ou autorização eletrônica de entrada exigidos no país da parada, mesmo para poucos dias."
+      ],
+      "dica": "Antes de comemorar o stopover, faça a conta das três opções. Exemplo com números fictícios e milheiro a R$ 20: (1) bilhete com parada: 70.000 milhas + R$ 900 = 70 × 20 + 900 = R$ 2.300; (2) dois trechos separados: 75.000 milhas + R$ 1.000 = R$ 2.500; (3) bilhete direto + voo entre as cidades: 60.000 milhas + R$ 800 + R$ 400 = R$ 2.400. A opção com parada venceu por pouco, e em todas falta somar o hotel da cidade extra.",
+      "videos": [
+        {
+          "titulo": "Compre 1 passagem, viaje para 2 países com stopover - veja como!",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=2SZHzTH2A4E",
+          "publicado": "2026-07-22",
+          "duracao": "17:22",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Didático e recente: o que é stopover, a diferença entre escala, conexão e stopover, o papel do hub, companhias que oferecem parada sem custo de passagem, passo a passo da compra e cinco cuidados antes de reservar. Auditado pela descrição e capítulos.",
+            "alerta": "O foco é passagem paga. Com milhas, a regra depende do programa: muitos não permitem parada, e a saída é emitir trechos separados (multidestinos), com o risco de bilhetes sem proteção entre si. 'Grátis' vale só para a passagem: hotel e transporte na cidade extra são por sua conta."
+          }
+        },
+        {
+          "titulo": "Stopover LATAM: regras e como solicitar",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=6ao_efqJvzs",
+          "publicado": "2026-07-01",
+          "duracao": "7:33",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Curto e objetivo sobre o programa de stopover de uma companhia: cidades, tempo de permanência, como pedir (não é pelo site), custos, bagagem e se dá para usar LATAM Pass. Bom exemplo de regulamento real para ler antes de montar o roteiro. Auditado pela descrição e capítulos.",
+            "alerta": "São regras de uma única companhia, vigentes em jul/2026. Confirme no site da LATAM antes de planejar. Como o pedido é feito pelo atendimento, guarde o protocolo e confira no bilhete as duas datas e a bagagem."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=OuK3n9CFS-A", "motivo": "Stopover no Aeroplan explicado de forma plausível, mas o funil vende um pacote com 'Balcão de Milhas' (compra e venda de milhas)." },
+        { "url": "https://www.youtube.com/watch?v=epHMDE6DftI", "motivo": "Mesmo tema (Aeroplan), de dez/2024, com o mesmo funil de produtos pagos." },
+        { "url": "https://www.youtube.com/watch?v=742Pu9moApQ", "motivo": "Stopover via Smiles, de mai/2024; preços e regras da Smiles mudaram desde então." },
+        { "url": "https://www.youtube.com/watch?v=-v34DZwJsiw", "motivo": "Recente, mas foca em hotel grátis em conexão longa e a descrição empurra assessoria VIP para quem gasta mais de R$ 20 mil por mês no cartão." },
+        { "url": "https://www.youtube.com/watch?v=DnP-7xXRbx0", "motivo": "Stopover com milhas na prática (abr/2025), mas a descrição só tem um link de grupo; não deu para auditar o conteúdo." },
+        { "url": "https://www.youtube.com/watch?v=ISRuZUeXoH4", "motivo": "Open jaw bem explicado, mas é de nov/2022 e a descrição vende curso com 'sua primeira emissão vai pagar seu investimento'." },
+        { "url": "https://www.youtube.com/watch?v=k3edwsm8Kdc", "motivo": "Publicado há cerca de 4 anos, com o mesmo funil de curso pago." }
+      ]
+    },
+    {
+      "id": "programas-estrangeiros",
+      "nome": "Programas estrangeiros",
+      "porque": "Programas de fora, como TAP Miles&Go, Avios (Iberia, British Airways, Qatar), Flying Blue (Air France-KLM) e AAdvantage (American Airlines), às vezes cobram menos milhas em voos internacionais e alcançam companhias que os nacionais não alcançam. Em troca, você assume taxas em moeda estrangeira, regras em outro idioma, atendimento fora do Brasil e mudanças sem aviso. É uma ferramenta para uma viagem específica, não um lugar para guardar pontos.",
+      "passos": [
+        "Comece pela viagem (rota, datas, cabine) e só depois veja se algum programa estrangeiro cobra menos, em milhas + taxas, que os nacionais para aquele voo.",
+        "Confira se o seu programa de banco transfere para ele e com qual paridade hoje (Livelo e Esfera têm parcerias com alguns programas estrangeiros; o AAdvantage acumula, por exemplo, pelo cartão co-branded do Santander). Isso muda com frequência.",
+        "Crie a conta no programa com antecedência, com o nome exatamente igual ao do passaporte, e ative a verificação em duas etapas.",
+        "Simule a emissão até a tela de pagamento para ver as taxas reais em euro, libra ou dólar; converta para reais somando IOF e spread do cartão.",
+        "Só transfira os pontos com o assento confirmado e emita logo em seguida. Não deixe saldo parado num programa estrangeiro."
+      ],
+      "armadilhas": [
+        "Olhar só a quantidade de milhas: algumas companhias cobram sobretaxa de combustível alta em emissões com milhas (a British Airways em voos próprios é o exemplo clássico), e a 'emissão barata' fica mais cara que a nacional.",
+        "Esquecer o câmbio: as taxas são cobradas em moeda estrangeira no cartão, com IOF e spread, e o valor final só aparece na fatura.",
+        "Regras e atendimento em outro idioma: cancelamento, remarcação, no-show e validade seguem o regulamento de lá, e a central pode não atender em português.",
+        "Achar que programa estrangeiro não desvaloriza: tabelas e parcerias mudam lá fora também (a TAP Miles&Go, por exemplo, passou por mudanças em 2026)."
+      ],
+      "dica": "Converta tudo para reais antes de decidir. Exemplo com números fictícios: 40.000 Avios + € 350 de taxas contra 60.000 milhas nacionais + R$ 500. Com o euro a R$ 6,20 e IOF de 3,5%: 350 × 6,20 = R$ 2.170, × 1,035 ≈ R$ 2.246 de taxas. Com Avios a R$ 30 o milheiro, o total é 40 × 30 + 2.246 ≈ R$ 3.446. Com milhas nacionais a R$ 25: 60 × 25 + 500 = R$ 2.000. A opção com 'menos milhas' saiu R$ 1.446 mais cara.",
+      "videos": [
+        {
+          "titulo": "Ávios - Internacionalização das milhas é pra todo mundo ou só moda?",
+          "canal": "Milhas com Matheus",
+          "url": "https://www.youtube.com/watch?v=-ucRgyuhReI",
+          "publicado": "2026-07-07",
+          "duracao": "17:59",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Médio",
+            "veredito": "Faz a pergunta certa antes de mover pontos para fora: a corrida para os Avios serve para o seu perfil ou é moda? Recente e com viés crítico, o que é raro no tema. Auditado só por título e descrição (sem capítulos nem transcrição acessível): confiança menor.",
+            "alerta": "A descrição é cheia de afiliados (seats.aero Pro, Revolut, Nomad, Wise) e oferece consultoria e serviço de 'internacionalização' de patrimônio. Nada disso é necessário para usar um programa estrangeiro. Transferência é de mão única e as taxas são em moeda estrangeira, com IOF."
+          }
+        },
+        {
+          "titulo": "Como Funcionam os AVIOS? Guia Prático para Iberia, Qatar e British",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=WR4ejX6FXXY",
+          "publicado": "2026-05-28",
+          "duracao": "1:16:41",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Live de fonte séria que explica os Avios na prática: Iberia Plus como porta de entrada para brasileiros e a movimentação do saldo entre Iberia, British, Qatar e Finnair. Longa e no formato de live. Auditado pela descrição; sem capítulos nem transcrição acessível.",
+            "alerta": "Cobre só os Avios: TAP, Flying Blue e AAdvantage ficam de fora. Bônus, tabelas e taxas citados são de mai/2026. Antes de transferir, simule a emissão e veja as taxas em euro ou libra, que variam muito conforme a companhia operadora. A descrição traz link de indicação da Revolut."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=g0Onf6Gyvl4", "motivo": "Guia de Avios para iniciantes recente, mas a incorporação está desativada (oEmbed retorna 401); não dá para exibir no site." },
+        { "url": "https://www.youtube.com/watch?v=Q9yCjZfun8I", "motivo": "Comparativo AAdvantage x Avios de 32 minutos sem capítulos e com a mesma descrição de afiliados; redundante. Reserva." },
+        { "url": "https://www.youtube.com/watch?v=9fBhg_J6MVE", "motivo": "Ensina a 'acumular e vender' milhas AAdvantage: venda está fora do escopo e contraria os regulamentos." },
+        { "url": "https://www.youtube.com/watch?v=j9alBAJO_sg", "motivo": "Ranking com funil de 'Live Secreta' de curso pago." },
+        { "url": "https://www.youtube.com/watch?v=LTKPEOW61lo", "motivo": "Live de quase 2 horas de um canal cujo funil inclui curso pago e mastermind para 'monetizar'." },
+        { "url": "https://www.youtube.com/watch?v=bm5SIUtAWQQ", "motivo": "Flying Blue de cerca de 2 anos atrás; regras e parcerias de transferência mudaram." }
+      ]
+    },
+    {
+      "id": "executiva-com-milhas",
+      "nome": "Executiva com milhas",
+      "porque": "Executiva em voo longo é onde as milhas costumam render mais valor e também onde há mais ilusão. Os assentos-prêmio em executiva são poucos por voo, disputados e cada vez mais com preço dinâmico. Quem consegue costuma ter datas flexíveis, sair de um hub, viajar com poucas pessoas e ter os pontos prontos para transferir na hora.",
+      "passos": [
+        "Defina o que é aceitável: datas com margem de alguns dias, cidades de saída possíveis, número de passageiros (cada pessoa a mais reduz muito as chances) e se executiva só no trecho longo já basta.",
+        "Pesquise disponibilidade em vários programas e em buscadores de tarifa-prêmio, em datas próximas, antes de transferir qualquer ponto. Os assentos costumam aparecer quando a agenda abre, quase um ano antes, ou perto da data do voo.",
+        "Anote o custo total: milhas × o seu custo do milheiro + taxas em reais.",
+        "Compare com o que você realmente pagaria: a econômica paga na mesma data e, se houver, uma executiva em promoção. Decida pela diferença em reais.",
+        "Com o assento confirmado, transfira e emita no mesmo dia: disponibilidade em executiva some em horas."
+      ],
+      "armadilhas": [
+        "Acreditar em prints de 'executiva só com taxas': o print esconde as milhas, que custaram dinheiro (anuidade, clube, compra de pontos) ou poderiam pagar outra viagem.",
+        "Calcular a 'economia' sobre a tarifa cheia da executiva: se você nunca pagaria R$ 20 mil, essa não é a sua economia.",
+        "Comprar milhas antes de achar o assento: sem disponibilidade, você fica com milhas caras paradas num programa que pode desvalorizar.",
+        "Travar a viagem num único dia ou buscar quatro assentos juntos: achar vários lugares em executiva no mesmo voo é raro."
+      ],
+      "dica": "Compare com o que você pagaria de verdade. Exemplo com números fictícios: executiva só de ida para a Europa por 120.000 milhas + R$ 1.400 de taxas. Com milheiro a R$ 18, o custo real é 120 × 18 + 1.400 = R$ 3.560. Se a econômica paga no mesmo dia custa R$ 2.800, você paga R$ 760 a mais pelo conforto, o que pode valer a pena num voo noturno de 10 horas. Mas não diga que 'economizou R$ 14.440' porque a executiva custava R$ 18.000 em dinheiro: você não pagaria esse valor.",
+      "videos": [
+        {
+          "titulo": "Verdades sobre a classe executiva que ninguém te conta!",
+          "canal": "Ju | Milhas e Viagens",
+          "url": "https://www.youtube.com/watch?v=Jtth7yFLPII",
+          "publicado": "2026-09-29",
+          "duracao": "5:58",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Curto, recente e honesto: mostra que não basta juntar milhas e escolher o voo, que nem toda executiva vale a pena (ex.: gastar milhas num voo curto em vez de um longo noturno) e que o ponto de partida é o planejamento. Auditado pela descrição; sem capítulos nem transcrição acessível.",
+            "alerta": "O exemplo da Qsuite a cerca de R$ 35 mil o trecho é preço de tarifa cheia, não é a sua economia. Compare com o que você pagaria de fato. O vídeo é curto: complemente com o segundo vídeo, que faz a comparação na prática."
+          }
+        },
+        {
+          "titulo": "Executiva ou Econômica? Usando pontos Azul na Europa | Série: Como usar suas milhas Azul?",
+          "canal": "Pedro Gerador | Viagens sem perrengue",
+          "url": "https://www.youtube.com/watch?v=Y7pw-9QLizQ",
+          "publicado": "2026-06-19",
+          "duracao": "14:30",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Faz na tela o que esta aula pede: pesquisa um voo para a Europa no site da Azul e compara milhas contra dinheiro, executiva contra econômica, na mesma rota. Auditado pela descrição; sem capítulos nem transcrição acessível.",
+            "alerta": "É um único exemplo de rota e data, com preços de jun/2026 numa tabela dinâmica. Faça a conta com o custo real das suas milhas, não com o preço de venda do milheiro. A descrição traz links de compra de pontos Azul com bônus (assunto da etapa 3) e da agência do autor: não compre milhas antes de achar o assento."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=lNRKPELWHJs", "motivo": "Promete 'qualquer executiva com 90% de desconto', é de jun/2024 e vende curso, consultoria e gestão de milhas." },
+        { "url": "https://www.youtube.com/watch?v=rLvKmvyOOe8", "motivo": "Diz 'provar matematicamente' executiva mais barata que econômica e ensina explorar um 'bug' de precificação, o que pode levar ao cancelamento da emissão; funil de clube pago e assessoria." },
+        { "url": "https://www.youtube.com/watch?v=rmXdLU8WpxQ", "motivo": "Tema certo, mas leva ao funil de 'Live Secreta' de curso pago e tem capítulo sobre comprar milhas." },
+        { "url": "https://www.youtube.com/watch?v=YpAyD9Qo0Xo", "motivo": "Tema honesto (como está difícil achar executiva para os EUA), mas a descrição não traz conteúdo verificável, só afiliados. Reserva." },
+        { "url": "https://www.youtube.com/watch?v=5_cPvCjn6Iw", "motivo": "'Reflexão' sobre executiva com milhas sem capítulos nem conteúdo verificável na descrição; muitos afiliados." },
+        { "url": "https://www.youtube.com/watch?v=jpY9BCY2W-8", "motivo": "27 minutos de demonstração de ferramentas com descrição genérica e sem capítulos; não deu para verificar a conta de '40% de economia'." },
+        { "url": "https://www.youtube.com/watch?v=00S_dkEAo_c", "motivo": "Publicado há 2 dias; o capítulo 'Milhas de Graça!' é link de indicação da Revolut. Não deu para avaliar o resto." }
+      ]
+    }
+  ]
+}

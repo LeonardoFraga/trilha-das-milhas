@@ -1,0 +1,220 @@
+{
+  "etapa": 1,
+  "aulas": [
+    {
+      "id": "o-que-sao-pontos-e-milhas",
+      "nome": "O que são pontos e milhas",
+      "porque": "Quase todo erro de iniciante vem de confundir ponto com milha: transferir na hora errada, para o programa errado, ou trocar por produto que vale pouco. Entender que o ponto nasce no banco e só vira milha quando vai para a companhia aérea é a base de tudo o que vem depois na trilha.",
+      "passos": [
+        "Descubra em qual programa o seu cartão acumula: um programa de banco (ex.: Livelo, Esfera, programa próprio do banco) ou direto numa companhia aérea (cartões co-branded).",
+        "Entre no app ou no site do banco e anote quantos pontos você tem hoje e quantos ganha por real ou por dólar gasto, conforme o seu contrato.",
+        "Faça cadastro gratuito nos três programas aéreos nacionais (Smiles, LATAM Pass e Azul Fidelidade), mesmo sem transferir nada ainda.",
+        "Desenhe o seu ciclo: gasto no cartão → pontos no banco → transferência (de preferência com bônus) → milhas na companhia → emissão da passagem.",
+        "Antes de transferir qualquer ponto, espere chegar à etapa 3 (Transferir e fazer a conta): ponto parado no banco ainda pode ir para qualquer programa; milha na companhia não volta."
+      ],
+      "armadilhas": [
+        "Transferir pontos para uma companhia aérea sem ter uma viagem em vista: a transferência é de mão única e as milhas ficam presas àquele programa.",
+        "Trocar pontos por produtos no shopping do banco achando que é a mesma coisa que viajar: o valor por ponto costuma ser bem menor.",
+        "Tratar milha como dinheiro: ela não tem liquidez garantida, expira, não tem proteção do FGC e pode perder valor por decisão do programa.",
+        "Achar que precisa gastar mais para começar: o ponto de partida é o que você já gasta, com a fatura paga inteira."
+      ],
+      "dica": "Para saber quanto vale uma milha num resgate, faça a conta do milheiro: (preço da passagem em dinheiro − taxas pagas no resgate) ÷ milhas usadas × 1.000. Exemplo com números fictícios: passagem de R$ 1.200 ou 20.000 milhas + R$ 60 de taxa → (1.200 − 60) ÷ 20.000 × 1.000 = R$ 57 por milheiro. Os valores de referência mudam o tempo todo; a lógica da conta não muda.",
+      "videos": [
+        {
+          "titulo": "Milhas: O Guia Completo para Começar a Acumular!",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=HD_QdLN8HDY",
+          "publicado": "2025-06-30",
+          "duracao": "14:24",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Introdução curta e bem estruturada: o que são milhas, os dois tipos de programa (banco e companhia aérea), acúmulo com cartão, clubes e o erro de transferir sem plano. Sem promessa de renda; a monetização é só a divulgação dos apps do próprio canal. Auditado por título, descrição e capítulos (a transcrição não estava acessível).",
+            "alerta": "O vídeo fala em clubes e transferências, que são assunto da etapa 3. Por enquanto, só entenda o conceito: não assine clube nem transfira pontos ainda. A lista de programas por banco na descrição é de 2025 e pode ter mudado."
+          }
+        },
+        {
+          "titulo": "MILHAS PARA INICIANTES! - TUDO que você precisa saber para COMEÇAR",
+          "canal": "Clube do Valor",
+          "url": "https://www.youtube.com/watch?v=ffSKmFvV6cI",
+          "publicado": "2026-10-12",
+          "duracao": "20:18",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Atualizado (out/2026) e com a distinção certa: ponto nasce no banco e vira milha na companhia, já com o nome Azul Fidelidade. Traz CPM e uma comparação entre milhas e cashback, o que é raro. Perde pontos pelo apelo de 'executiva pagando só as taxas' e por ser vitrine de um serviço pago de gestão de milhas. Auditado por título e descrição detalhada; a transcrição não estava acessível.",
+            "alerta": "O exemplo de compra bonificada (R$ 5.000 a 10 pontos por real = 50.000 pontos) está certo na conta, mas só vale se você já ia comprar aquilo, pelo preço de mercado. Executiva 'só com taxas' exige muitas milhas e disponibilidade rara. Ignore o convite para a gestão paga."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=E8zMJRdS9_M", "motivo": "Bons capítulos, mas a descrição promete 'gerar renda extra com milhas' e leva a uma 'Live Secreta' de venda de curso pago." },
+        { "url": "https://www.youtube.com/watch?v=chWHZS8sSoU", "motivo": "Tem capítulo 'Transformando milhas em dinheiro' (venda) já na aula básica, e o mesmo funil de 'Live Secreta'." },
+        { "url": "https://www.youtube.com/watch?v=oV3wxNvgv1Q", "motivo": "54 minutos para um conceito básico; a descrição oferece 'renda extra com a venda das suas milhas' e é cheia de links de afiliado, alguns ainda com o nome 'Tudo Azul'." },
+        { "url": "https://www.youtube.com/watch?v=T4m3-5Ao_CM", "motivo": "Publicado há cerca de 4 anos: nomes e regras de programa desatualizados (ex.: TudoAzul)." },
+        { "url": "https://www.youtube.com/watch?v=HoFarsULkbw", "motivo": "Aula de captação para curso pago com cupom; empurra compra de pontos e compra bonificada para quem ainda não entendeu o básico." }
+      ]
+    },
+    {
+      "id": "programas-do-brasil",
+      "nome": "Os principais programas do Brasil",
+      "porque": "Concentrar pontos no programa certo vale mais do que acumular muito em vários lugares sem conseguir emitir nada. Cada companhia aérea atende melhor certas regiões e destinos, e cada programa de banco transfere para parceiros diferentes. Escolher bem no começo evita saldo espalhado e perdido.",
+      "passos": [
+        "Liste os aeroportos de onde você costuma sair e veja quais companhias (GOL, LATAM, Azul) voam de lá com mais frequência.",
+        "Associe cada companhia ao seu programa: GOL → Smiles; LATAM → LATAM Pass; Azul → Azul Fidelidade (o antigo TudoAzul, que mudou de nome em 2024).",
+        "Confira no site do seu programa de banco (Livelo, Esfera ou programa próprio do banco) para quais companhias ele transfere hoje e com qual paridade.",
+        "Escolha um programa aéreo principal, ligado ao seu aeroporto e aos destinos que você quer de verdade, e no máximo um secundário.",
+        "Anote a data em que você fez essa análise: parcerias, paridades e regras mudam várias vezes por ano."
+      ],
+      "armadilhas": [
+        "Escolher o programa pelo 'milheiro mais barato' sem olhar se ele voa para onde você quer ir: milha barata que não emite nada não vale nada.",
+        "Espalhar pequenos saldos em cinco programas: nenhum deles chega ao valor de uma passagem antes de expirar.",
+        "Seguir vídeos ou blogs antigos que ainda falam em TudoAzul, Multiplus ou Avianca Brasil: as regras citadas provavelmente já mudaram.",
+        "Esquecer o risco da companhia: GOL e Azul passaram por recuperação judicial nos EUA (Chapter 11). Isso não apaga milhas automaticamente, mas reforça a regra de não estocar."
+      ],
+      "dica": "Não existe 'melhor programa' no vácuo. A pergunta certa é: 'Qual programa me leva, do meu aeroporto, ao destino que eu quero, pelo menor custo total em reais?' Junte pontos no banco (que é flexível) e só escolha a companhia quando a viagem estiver definida.",
+      "videos": [
+        {
+          "titulo": "Qual o Melhor Programa de Milhas em 2026? A resposta que ninguém te dá!",
+          "canal": "DIA23",
+          "url": "https://www.youtube.com/watch?v=lrKzVS4lxVs",
+          "publicado": "2026-08-07",
+          "duracao": "23:51",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Compara Smiles, LATAM Pass e Azul Fidelidade por destino, não por 'ranking', e lembra que o que importa é o custo total da emissão, não a quantidade de milhas. Traz milheiro médio com período e fonte de cálculo (6 meses até jul/2026), o que é raro. Auditado pela descrição detalhada e pelos capítulos; a transcrição não estava acessível.",
+            "alerta": "Os valores de milheiro (ex.: Azul R$ 14,41, Smiles R$ 14,75, LATAM R$ 25,30) e os preços de emissão são fotos de jul/2026 e mudam rápido. Não compre milhas com base neles. O vídeo quase não fala dos programas de banco (Livelo, Esfera); veja o segundo vídeo."
+          }
+        },
+        {
+          "titulo": "Livelo ou Esfera: saiba de uma vez por todas qual programa focar!",
+          "canal": "Sara Reis",
+          "url": "https://www.youtube.com/watch?v=inGQpMTznwU",
+          "publicado": "2026-09-17",
+          "duracao": "15:16",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Comparação recente dos dois maiores programas de banco, com a conclusão honesta de que 'depende de como você junta e usa os pontos'. Auditado só por título e descrição curta (sem capítulos nem transcrição acessível): confiança menor.",
+            "alerta": "Você normalmente não escolhe o programa de banco: ele vem do seu cartão (ex.: Santander → Esfera; Bradesco e Banco do Brasil → Livelo). Não troque de cartão só por isso. Clubes de assinatura que aparecerem no vídeo são assunto da etapa 3."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=j9alBAJO_sg", "motivo": "Ranking que mistura programas estrangeiros (Avios, AAdvantage, Connect Miles) num nível básico, com critério de 'gerar valor' e funil de 'Live Secreta'." },
+        { "url": "https://www.youtube.com/watch?v=XGoviLco7v0", "motivo": "Foco em quanto pagar na compra de milhas, não em entender os programas; tema da etapa 3." },
+        { "url": "https://www.youtube.com/watch?v=gkutiLa6YaE", "motivo": "Publicado há cerca de 2 anos e ainda usa 'Tudo Azul'; regras desatualizadas." },
+        { "url": "https://www.youtube.com/watch?v=_kjdulSabEs", "motivo": "Promete 'hack' com Avios e vende assessoria com 'resultado garantido'; avançado demais e com promessa inaceitável." },
+        { "url": "https://www.youtube.com/watch?v=uCGBO_DVXzs", "motivo": "Recente, mas sem capítulos nem conteúdo verificável na descrição, que é dominada por afiliados e grupo de Black Friday; não deu para auditar." }
+      ]
+    },
+    {
+      "id": "cartao-sem-divida",
+      "nome": "Cartão de crédito sem dívida",
+      "porque": "Esta é a regra que vem antes de tudo: o cartão só serve para milhas se a fatura for paga inteira, todo mês. Os juros do rotativo estão entre os mais caros do país e um único mês de atraso apaga anos de pontos. Se a fatura não fecha, a prioridade é sair da dívida, não acumular milhas.",
+      "passos": [
+        "Ative o débito automático do valor TOTAL da fatura (não do mínimo) na conta onde cai o seu salário.",
+        "Defina no app do banco um limite de cartão que caiba na sua renda, menor que o limite aprovado se for preciso.",
+        "Toda semana, confira os lançamentos no app e compare o total com o que você tem em conta para pagar no vencimento.",
+        "Se um mês não fechar, não pague o mínimo: compare o CET do parcelamento da fatura com outras opções mais baratas (ex.: crédito pessoal, portabilidade) e pare de usar o cartão até zerar.",
+        "Só passe para a etapa 2 (escolher cartão por pontos) depois de três faturas seguidas pagas integralmente sem aperto."
+      ],
+      "armadilhas": [
+        "Pagar o mínimo 'só este mês': o saldo restante vai para o rotativo, com juros que costumam passar de 10% ao mês.",
+        "Parcelar a fatura achando que não tem juros: o parcelamento da fatura cobra juros e IOF, só que menos que o rotativo.",
+        "Gastar mais ou pedir aumento de limite 'para pontuar mais': os pontos nunca cobrem juros, e o gasto extra é dinheiro que sai do seu bolso.",
+        "Passar no cartão contas de terceiros para 'ganhar pontos': você assume o risco do calote e consome o seu limite."
+      ],
+      "dica": "Faça a conta antes de achar que vale a pena. Exemplo com números ilustrativos: fatura de R$ 2.000 num cartão que dá 1,5 ponto por real = 3.000 pontos. Mesmo valorizando o milheiro entre R$ 20 e R$ 30, isso dá R$ 60 a R$ 90. Um mês de rotativo a cerca de 15% ao mês sobre esses R$ 2.000 custa cerca de R$ 300, sem contar IOF. Os juros comem de 3 a 5 vezes o valor dos pontos.",
+      "videos": [
+        {
+          "titulo": "BC te Explica #166 - Por que o rotativo do cartão é tão caro e como evitar?",
+          "canal": "Banco Central do Brasil",
+          "url": "https://www.youtube.com/watch?v=8_dnQeaC5mI",
+          "publicado": "2026-02-27",
+          "duracao": "4:30",
+          "auditoria": {
+            "nota": 9,
+            "risco": "Baixo",
+            "veredito": "Fonte oficial, curta e atual: explica o que é o rotativo, por que ele está entre as modalidades de crédito mais caras (junto com o cheque especial) e como não entrar nele. Zero interesse comercial. Auditado por título e descrição; o vídeo tem legenda manual, mas a transcrição não estava acessível.",
+            "alerta": "O vídeo não fala de milhas. Faça você a ligação: nenhum programa de pontos compensa juros de rotativo ou de parcelamento de fatura."
+          }
+        },
+        {
+          "titulo": "BC te Explica #102 - DÍVIDA no Cartão de Crédito agora tem LIMITE!",
+          "canal": "Banco Central do Brasil",
+          "url": "https://www.youtube.com/watch?v=QeSBuDfDd58",
+          "publicado": "2024-01-19",
+          "duracao": "5:35",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Explica a regra em vigor desde 03/01/2024: juros e encargos do rotativo e da fatura parcelada não podem passar do valor da dívida original. É de 2024, mas a regra continua valendo e o conceito não envelhece. Auditado por título e descrição.",
+            "alerta": "O teto de 100% não torna o rotativo barato: ele só impede que a dívida cresça para sempre. Ela ainda pode dobrar. O objetivo é nunca chegar lá."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=Q8BfPu_UkeQ", "motivo": "Me Poupe! sério e útil para organizar o orçamento, mas foca em sair da dívida e em 'renda extra urgente', sem explicar rotativo e parcelamento de fatura." },
+        { "url": "https://www.youtube.com/watch?v=p-2-QKwPp6Y", "motivo": "Conteúdo aparentemente correto e com fontes (Banco Central, Resolução BCB 96/2021), mas o canal é muito novo e usa narração sintética. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=Vl31UjeOlvU", "motivo": "Incentiva parcelar em mais vezes e a técnica do 'picadinho', o que confunde o iniciante na aula cuja regra é fatura integral." },
+        { "url": "https://www.youtube.com/watch?v=Zfy-MEfnW3Y", "motivo": "Publicado há cerca de 9 anos: trata da regra do rotativo de 2017, sem o teto de juros de 2024." }
+      ]
+    },
+    {
+      "id": "validade-e-expiracao",
+      "nome": "Validade e expiração",
+      "porque": "Ponto e milha têm prazo de validade, e perder saldo por esquecimento é o prejuízo mais comum e mais evitável de todos. Os prazos variam por programa, pela origem do ponto (cartão, bônus, compra, clube) e até por lote dentro da mesma conta, então é preciso olhar o extrato, não confiar na memória.",
+      "passos": [
+        "Abra o extrato de cada programa onde você tem saldo (banco e companhias aéreas) e procure a data de vencimento de cada lote, não só o saldo total.",
+        "Monte uma planilha ou nota simples: programa, saldo, quantidade que vence e data de vencimento. Revise uma vez por mês.",
+        "Crie lembretes no celular 90 e 30 dias antes de cada vencimento relevante.",
+        "Antes de cancelar ou trocar de cartão, use ou transfira os pontos do programa próprio do banco: em muitos casos eles se perdem com o cancelamento.",
+        "Se algo vai vencer sem viagem à vista, compare as saídas: transferir para a companhia que você mais usa (zera o prazo lá, mas prende os pontos naquele programa), resgatar algo útil ou aceitar a perda de um saldo pequeno."
+      ],
+      "armadilhas": [
+        "Achar que todo saldo tem a mesma validade: milhas bônus de transferência bonificada ou de promoções costumam vencer antes das milhas 'normais'.",
+        "Estocar milhas por anos 'para uma grande viagem': além de expirar, elas sofrem desvalorização quando o programa muda a tabela.",
+        "Pagar para reativar milhas vencidas sem fazer a conta: alguns programas cobram por isso, e o custo pode ser maior que o valor do resgate.",
+        "Confiar em listas de prazos de blogs: as regras mudam e as fontes divergem. Vale o regulamento e o extrato do programa."
+      ],
+      "dica": "Perder é sempre o pior resultado, mas usar mal também custa. Exemplo com números ilustrativos: 8.000 pontos vencendo, trocados por produto a cerca de R$ 0,02 por ponto, valem R$ 160; perdidos, valem R$ 0. Se você ainda pretende viajar, transferir para a companhia que você usa costuma preservar mais valor. Melhor ainda é acumular só o que você vai usar nos próximos 12 a 24 meses (ritmo 'ganhe e gaste').",
+      "videos": [
+        {
+          "titulo": "PONTOS VENCENDO? O que fazer com Livelo e Esfera Santander!",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=xRrdTHWS-W4",
+          "publicado": "2026-02-28",
+          "duracao": "8:01",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Curto, recente e voltado ao iniciante: o que fazer quando os pontos do banco estão para vencer e por que trocar por produto costuma ser mau negócio. Auditado por título e descrição (sem capítulos nem transcrição acessível): confiança média.",
+            "alerta": "Só cobre Livelo e Esfera. Cada programa e cada lote têm prazo próprio: confira no seu extrato. Se o vídeo sugerir transferência bonificada para salvar pontos, lembre que as milhas bônus podem vencer antes."
+          }
+        },
+        {
+          "titulo": "Milhas Expirando - O que fazer?",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=ifw-TPp1wTQ",
+          "publicado": "2025-08-08",
+          "duracao": "1:04:26",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Médio",
+            "veredito": "Live que cobre o lado das companhias aéreas: como evitar o vencimento e o que fazer com milhas perto de expirar, mesmo sem viagem marcada. Fonte séria, mas longa, de 2025 e no formato de live, com divagações. Auditado por título e descrição.",
+            "alerta": "Os prazos citados podem ter mudado desde ago/2025; confirme no regulamento atual. Não compre milhas nem assine clube só para 'segurar' o vencimento de um saldo pequeno. A descrição traz links de indicação (Uber, Revolut) sem relação com a aula."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=MRWAH1M0g90", "motivo": "Vídeo curto de 2024 usado como isca para uma live de Black Friday que promete 'nova fonte de renda' com milhas." },
+        { "url": "https://www.youtube.com/watch?v=3ZJRHComAK0", "motivo": "Apresenta a venda de milhas como solução 'com segurança' para o vencimento; a venda contraria os regulamentos." },
+        { "url": "https://www.youtube.com/watch?v=bL6lMj1nyoE", "motivo": "Publicado há cerca de 6 anos, com 'Tudo Azul' e prazos antigos." },
+        { "url": "https://www.youtube.com/watch?v=iia2S-XcaI4", "motivo": "Publicado há cerca de 5 anos; regras de validade e reativação desatualizadas." },
+        { "url": "https://www.youtube.com/watch?v=wUHqjneLtdI", "motivo": "Live de 40 minutos sem descrição nem capítulos; não deu para auditar o conteúdo." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "etapa": 7,
+  "aulas": [
+    {
+      "id": "seguranca-e-golpes",
+      "nome": "Segurança da conta e golpes",
+      "porque": "Um saldo de milhas é dinheiro guardado numa conta que muitas vezes só é protegida por e-mail e senha, e os golpistas sabem disso. Ao contrário do banco, não existe regra específica de reembolso para milhas roubadas: devolver ou não depende do programa aceitar a contestação. Prevenir sai muito mais barato do que tentar recuperar.",
+      "passos": [
+        "Troque a senha de cada programa (banco e companhias aéreas) por uma senha única e longa, guardada num gerenciador de senhas. Nunca repita a senha do seu e-mail.",
+        "Ative a verificação em duas etapas onde o programa oferecer e proteja também o e-mail cadastrado com 2FA: quem controla o seu e-mail consegue trocar a senha do programa.",
+        "Entre sempre digitando o endereço ou pelo app oficial. Ignore links de SMS, e-mail ou WhatsApp sobre 'milhas expirando' ou 'pontos para resgatar'.",
+        "Ligue as notificações de resgate e transferência e confira o extrato de cada programa uma vez por mês.",
+        "Se roubarem o saldo: avise o programa na hora pelos canais oficiais e peça bloqueio e estorno; troque as senhas do e-mail e do programa; registre boletim de ocorrência (dá para fazer na delegacia online); sem resposta, registre reclamação no consumidor.gov.br ou no Procon. Guarde prints de tudo."
+      ],
+      "armadilhas": [
+        "Contratar uma 'emissão barata' pelo WhatsApp ou Instagram: o suposto especialista emite com milhas de origem duvidosa, cadastra o e-mail dele na reserva e você não consegue confirmar nada com a companhia. A passagem pode ser falsa ou cancelada, e um Pix para desconhecido não tem volta.",
+        "Passar login, senha ou código de verificação a alguém, seja 'comprador de milhas', 'gestor' ou 'suporte'. Nenhum programa pede código por telefone ou WhatsApp. Além do risco de roubo, os regulamentos proíbem repassar número e senha da conta.",
+        "Pedir ajuda ao programa pelas redes sociais e cair em perfis falsos que se apresentam como 'atendimento'.",
+        "Achar que vazamento de dados não é com você: em ago/2026 a LATAM confirmou uma falha de segurança que expôs dados de clientes (noticiado por Jovem Pan e Olhar Digital). Dados vazados alimentam golpes personalizados, com seu nome e número de cliente."
+      ],
+      "dica": "Faça a conta do preço impossível. Se alguém oferece uma executiva para a Europa por R$ 2.000 e essa emissão costuma custar umas 150.000 milhas, só as milhas já valem R$ 3.000 com o milheiro a R$ 20 (150.000 ÷ 1.000 × R$ 20), sem contar as taxas. Ninguém honesto vende abaixo do custo: preço menor que o valor das próprias milhas indica golpe ou milhas roubadas. Os números são ilustrativos.",
+      "videos": [
+        {
+          "titulo": "Golpes com milhas aéreas aumentam durante temporada de viagens",
+          "canal": "Hoje em Dia",
+          "url": "https://www.youtube.com/watch?v=2PHSU6fiPuU",
+          "publicado": "2026-06-09",
+          "duracao": "6:07",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Reportagem de TV recente (jun/2026) sobre o golpe mais comum: SMS ou e-mail falso de 'milhas expirando' que leva a um site falso e rouba os dados. Mostra uma vítima real e não tem interesse comercial. Auditado por título e descrição; a transcrição não estava acessível.",
+            "alerta": "É jornalismo, não tutorial: não ensina a ativar 2FA nem a contestar um resgate. Para isso, use o 'Na prática' desta aula. Programa de verdade não pede senha nem código por mensagem."
+          }
+        },
+        {
+          "titulo": "Fraude de milhas aéreas: viajantes são vítimas de especialista falso e enfrentam prejuízos",
+          "canal": "Fala Brasil",
+          "url": "https://www.youtube.com/watch?v=QtZeps_kigQ",
+          "publicado": "2026-08-27",
+          "duracao": "5:05",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Caso real (ago/2026) de um 'especialista' que vendia executivas baratas emitidas com milhas. Os bilhetes eram falsos, o e-mail do golpista estava cadastrado nas reservas e uma vítima pagou R$ 11 mil para voltar da Europa. Ilustra bem o risco da 'emissão barata'. Auditado por título e descrição; a transcrição não estava acessível.",
+            "alerta": "A lição prática: antes de pagar, peça o localizador e confirme a reserva no site da companhia, com o seu e-mail cadastrado. Se o vendedor não deixar, é golpe. E quem compra passagem emitida com milhas de terceiros também corre o risco de ter o bilhete cancelado pelo programa."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=hNpBGGUrxpw", "motivo": "Bom conteúdo sobre roubo de milhas e proteção da conta, mas é em inglês (o título aparece traduzido automaticamente) e trata de programas dos EUA." },
+        { "url": "https://www.youtube.com/watch?v=WPgMgh664eM", "motivo": "Canal 'Profissão Gestor de Milhas'; descrição sem conteúdo verificável, só com link de consultoria." },
+        { "url": "https://www.youtube.com/watch?v=r7UTCJb1Mjs", "motivo": "Reportagem de 3 minutos sobre o caso 'Rei das Milhas'; a vítima buscava 'renda extra' e o foco é o caso policial, não a prevenção." },
+        { "url": "https://www.youtube.com/watch?v=qshMfXqBIAw", "motivo": "Denúncias contra um empresário específico, ainda sob investigação. Serve como notícia, mas o Fala Brasil cobre o mesmo tipo de golpe com mais foco no consumidor." },
+        { "url": "https://www.youtube.com/watch?v=Aspa4kTH-9M", "motivo": "Reportagem de cerca de 3 anos atrás; o tema segue atual, mas há casos de 2026." },
+        { "url": "https://www.youtube.com/watch?v=io6GZ54nB_A", "motivo": "O título fala em 'golpe', mas o vídeo é sobre a expectativa de 'viagem grátis' e leva a mentoria e curso pagos." }
+      ]
+    },
+    {
+      "id": "desvalorizacao",
+      "nome": "Desvalorização: não estoque milhas",
+      "porque": "Milha não rende juros, só perde valor. O programa pode, a qualquer momento e seguindo apenas o próprio regulamento, aumentar quantas milhas uma passagem custa, mudar a tabela ou cortar parceiros. Quem guarda milhas 'para um dia' está apostando que as regras não vão piorar, e a história recente mostra que pioram.",
+      "passos": [
+        "Defina um horizonte: acumule pensando numa viagem dos próximos 12 a 24 meses, não 'para um dia'.",
+        "Deixe os pontos no programa do banco (Livelo, Esfera ou programa próprio) até a viagem estar definida e só transfira para a companhia aérea na hora de emitir.",
+        "Acompanhe as notícias do seu programa em blogs especializados (ex.: Passageiro de Primeira, Melhores Destinos, Pontos pra Voar): reajustes costumam ser anunciados poucas semanas antes.",
+        "Se sair um reajuste e você já tiver saldo e viagem planejada, avalie emitir antes da data. Faça isso só para uma viagem que você faria de qualquer jeito.",
+        "Se você tem um saldo grande parado, calcule hoje o valor do milheiro num resgate real que você faria. Se o valor for aceitável, usar agora costuma ser melhor do que esperar."
+      ],
+      "armadilhas": [
+        "Comprar milhas em promoção 'porque está barato' sem viagem marcada: é pagar adiantado por algo que pode custar mais milhas amanhã.",
+        "Achar que tabela fixa é garantia: a LATAM Pass reajustou a tabela fixa de companhias parceiras em mar/2026 e anunciou novo aumento, de cerca de 20% em várias rotas, a partir de 23/11/2026 (Passageiro de Primeira, Pontos pra Voar).",
+        "Ignorar o risco da empresa: GOL (jan/2024 a jun/2025) e Azul (mai/2025 a fev/2026) passaram por recuperação judicial nos EUA (Chapter 11). Nos dois casos os programas continuaram funcionando e as milhas foram mantidas, mas milha não tem garantia do FGC. Numa falência, o cliente vira, na melhor hipótese, mais um credor.",
+        "Confundir bônus de transferência com valorização: um bônus alto não protege o saldo de um reajuste futuro."
+      ],
+      "dica": "Todo aumento no preço em milhas é uma perda direta do seu saldo. Se uma passagem sobe de 150.000 para 180.000 milhas (+20%), cada milha passa a comprar 1/1,2 do que comprava antes: o seu saldo perdeu cerca de 16,7% do poder de compra (1 − 150.000 ÷ 180.000) da noite para o dia, sem você fazer nada. Por isso a regra é 'ganhe e gaste'.",
+      "videos": [
+        {
+          "titulo": "Tabela fixa LATAM Pass sobe 20% em 23/11: o que muda trecho por trecho",
+          "canal": "Lucas por Milhas",
+          "url": "https://www.youtube.com/watch?v=E2wofX2MiVs",
+          "publicado": "2026-11-04",
+          "duracao": "12:40",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Exemplo real e atual (nov/2026) de desvalorização: explica o reajuste de cerca de 20% na tabela fixa de parceiras da LATAM Pass, cita a página oficial com a data da consulta e converte os exemplos em reais. As contas da descrição batem. O canal é pequeno, mas o reajuste foi confirmado pela imprensa especializada. Auditado por título e descrição detalhada; a transcrição não estava acessível.",
+            "alerta": "Os valores em reais usam milheiro de R$ 24 e taxa estimada de R$ 300, só como exemplo. Não corra para emitir 'antes que suba' uma viagem que você não faria. A descrição tem links de afiliado (Seats.aero, seguro viagem)."
+          }
+        },
+        {
+          "titulo": "Milhas em queda livre! Saiba como proteger seus pontos da inflação!",
+          "canal": "Pontos pra Voar",
+          "url": "https://www.youtube.com/watch?v=J4YVSMUFbiU",
+          "publicado": "2025-08-05",
+          "duracao": "6:09",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Baixo",
+            "veredito": "Vídeo curto da editora do Pontos pra Voar sobre a 'inflação das milhas' e como se proteger dela, sem promessa de ganho nem venda de curso. É de ago/2025, mas o conceito não envelhece. Auditado só por título e descrição curta (sem capítulos nem transcrição acessível): confiança menor.",
+            "alerta": "Não cobre o risco de recuperação judicial das companhias nem os reajustes de 2026; complemente com o texto desta aula. Qualquer número citado no vídeo é de 2025."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=F7KrqhUd2h0", "motivo": "De mai/2025: ainda chama o programa de TudoAzul, foi superado pela saída da Azul do Chapter 11 (fev/2026) e a descrição leva a um curso de cartões com 'renda extra'." },
+        { "url": "https://www.youtube.com/watch?v=gT_PLrXH18A", "motivo": "De mai/2025, superado pela saída da Azul do Chapter 11; descrição dominada por afiliados e cupom de curso." },
+        { "url": "https://www.youtube.com/watch?v=R0TqFuBYSJs", "motivo": "O tema é certo (pioras no LATAM Pass), mas a descrição é quase toda vitrine de um curso pago de Avios, e o vídeo é de jan/2026, antes do reajuste de novembro." },
+        { "url": "https://www.youtube.com/watch?v=mWXS1I0CuzU", "motivo": "Opinião genérica sobre o 'fim das milhas', com funil para agência de viagens e treinamento pago." },
+        { "url": "https://www.youtube.com/watch?v=2xj7B1Gppqo", "motivo": "Título sensacionalista e descrição dominada por cupons e afiliados, sem capítulos para auditar." }
+      ]
+    },
+    {
+      "id": "emissao-para-terceiros",
+      "nome": "Emissão para terceiros e limite de beneficiários",
+      "porque": "Emitir passagens com as suas milhas para pais, filhos ou cônjuge é permitido e é um dos melhores usos do saldo. Mas todos os grandes programas limitam quantas pessoas diferentes podem receber essas emissões, justamente para dificultar a venda de passagens. Quem não conhece o limite pode ficar sem conseguir emitir na hora da viagem ou ter a conta investigada.",
+      "passos": [
+        "Liste quem de fato viaja com as suas milhas (família próxima) e estime quantas pessoas diferentes por ano.",
+        "Leia a regra de beneficiários no regulamento atual do seu programa. Referências de nov/2026, que mudam: a Smiles conta pessoas distintas por ano civil (hoje, até 25); a LATAM Pass conta terceiros distintos numa janela de 12 meses (na casa de duas dezenas); a Azul Fidelidade usa uma lista fixa de beneficiários, cujo tamanho depende da categoria e de campanhas, com carência (hoje, de 30 dias) para emitir para quem acabou de entrar na lista.",
+        "Na Azul, cadastre os beneficiários com antecedência, antes de aparecer a promoção, e evite ficar trocando os nomes da lista.",
+        "Para juntar as milhas da família, prefira o caminho oficial (ex.: Conta Família Smiles) em vez de usar o login e a senha de parentes.",
+        "Emita sempre com os dados certos do passageiro (nome igual ao do documento) e anote numa planilha simples: para quem, quando e por qual programa."
+      ],
+      "armadilhas": [
+        "Gastar as 'vagas' de beneficiário com amigos e conhecidos e ficar sem vaga para a família no fim do ano.",
+        "Cobrar do amigo pela passagem emitida: aí deixa de ser presente e vira comercialização, que os regulamentos proíbem e que pode levar ao bloqueio da conta.",
+        "Usar CPFs ou contas de parentes para 'multiplicar' o limite, como ensinam vários cursos de venda de milhas: isso pode levar ao bloqueio de todas as contas envolvidas.",
+        "Confiar em números de vídeos e blogs: os limites mudam. A Azul, por exemplo, já mudou o tamanho da lista e a carência, e de vez em quando faz ampliações temporárias. Vale o regulamento do dia."
+      ],
+      "dica": "Faça a conta da sua família antes de se preocupar. Um casal com dois filhos ocupa 3 vagas de terceiros (o titular não conta) num programa que conta pessoas distintas, mesmo emitindo para eles várias vezes no ano. Isso cabe com folga nos limites atuais de Smiles e LATAM Pass; confirme se o seu programa conta por pessoa ou por bilhete. Se a sua conta está batendo no limite, a pergunta honesta é: para quem você está emitindo?",
+      "videos": [
+        {
+          "titulo": "Limite de CPF nas companhias aéreas: como funciona?",
+          "canal": "Cartões, Milhas e Viagens",
+          "url": "https://www.youtube.com/watch?v=k387mexlxyg",
+          "publicado": "2025-05-20",
+          "duracao": "7:05",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Médio",
+            "veredito": "Cobre os três programas numa aula curta: quantos CPFs, como é a contagem, se dá para emitir várias vezes para a mesma pessoa e o que acontece quando o limite estoura, inclusive o risco de bloqueio. É de mai/2025 e cita o 'mercado paralelo' como parte do público. Auditado por título e descrição; a transcrição não estava acessível.",
+            "alerta": "Os números podem ter mudado desde mai/2025 (a Azul, por exemplo, alterou a lista de beneficiários); confira no regulamento. Ignore os convites para grupo de emissões e mentoria: o limite existe para você usar com a família, não para 'otimizar' vendas."
+          }
+        },
+        {
+          "titulo": "Antes de criar a Conta Família Smiles, assista a este vídeo",
+          "canal": "Sara Reis",
+          "url": "https://www.youtube.com/watch?v=bjyF_x7QLjM",
+          "publicado": "2026-09-23",
+          "duracao": "10:23",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Recente (set/2026) e focado no uso legítimo: como funciona a Conta Família Smiles, quem pode entrar, o que acontece com as milhas que cada um já tinha e a regra dos 12 meses, que pode gerar arrependimento. Auditado pela descrição detalhada; a transcrição não estava acessível.",
+            "alerta": "Na conta família, as milhas passam a ser administradas por uma pessoa; combine isso com a família antes. Vale só para a Smiles: LATAM Pass e Azul têm regras próprias. A descrição leva a curso e grupo de alertas pagos."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=rkvckQakCUk", "motivo": "Ensina a 'vender até 5 milhões de milhas por ano' gerenciando várias contas para driblar o limite de CPF." },
+        { "url": "https://www.youtube.com/watch?v=kwHq7Ck841U", "motivo": "Voltado a quem 'trabalha com milhas', ainda usa 'TudoAzul' e é vitrine de curso pago com grupo de compra e venda de milhas." },
+        { "url": "https://www.youtube.com/watch?v=2pV3Fj2V_8Y", "motivo": "Recente e com capítulos, mas foca em quem 'trabalha com passagens' e em liminares judiciais; os números de beneficiários da Azul citados não foram confirmados em fonte oficial." },
+        { "url": "https://www.youtube.com/watch?v=HD6oUZFWI-M", "motivo": "Promete emitir na Azul 'para quantas pessoas quiser', em canal de 'Renda Extra'." },
+        { "url": "https://www.youtube.com/watch?v=dW4WHS02NnA", "motivo": "Correto sobre a regra da Smiles, mas é de jan/2025 e cobre um só programa; o vídeo escolhido, do mesmo canal, é mais completo." }
+      ]
+    },
+    {
+      "id": "venda-de-milhas",
+      "nome": "Venda de milhas: o que os cursos não contam",
+      "porque": "Muitos cursos pagos apresentam a venda de milhas como 'renda extra' sem contar a regra do jogo. Os regulamentos de Smiles, LATAM Pass e Azul Fidelidade proíbem comercializar milhas e passagens emitidas com elas, e em 2024 o STJ considerou válido esse tipo de proibição (REsp 2.011.456). Esta aula não ensina a vender: mostra os riscos para você decidir de olhos abertos.",
+      "passos": [
+        "Leia, no regulamento do seu programa, as cláusulas sobre comercialização, cessão de milhas e repasse de login e senha, e veja o que o programa pode fazer em caso de violação (bloquear a conta, cancelar o saldo e as passagens).",
+        "Se pensa em vender porque as milhas vão vencer, compare antes as saídas permitidas: emitir para a família, usar em produto ou cashback do próprio programa, ou aceitar perder um saldo pequeno.",
+        "Se mesmo assim decidir vender, nunca entregue a sua senha: quem tem a senha controla a conta e o saldo inteiro.",
+        "Pesquise a situação do intermediário (Reclame Aqui, processos, notícias) e entenda que o risco de calote é seu.",
+        "Registre tudo (datas, valores, quem comprou) e veja a próxima aula: o ganho com a venda pode pagar imposto."
+      ],
+      "armadilhas": [
+        "Bloqueio de conta e perda do saldo: os programas monitoram padrões (muitas emissões para terceiros, acessos de lugares diferentes) e podem suspender a conta, cancelar o saldo e até passagens já emitidas. A biometria facial na emissão (LATAM Pass, e relatos na Smiles em 2026) aumentou esse controle.",
+        "Risco de contraparte: 123milhas, MaxMilhas e HotMilhas (Grupo 123) estão em recuperação judicial desde 2023, com dívidas de cerca de R$ 2,4 bilhões segundo a imprensa e plano de pagamento em vários anos. Quem vendeu milhas ou comprou passagens por elas virou credor, e muitos ainda esperam receber.",
+        "Achar que a 'nova lei' já liberou a venda: o PL 3.083/2026, aprovado pela Câmara em 13/08/2026, ainda depende do Senado e da sanção presidencial. Até virar lei, valem os regulamentos de hoje.",
+        "Entregar login, senha ou código de verificação a 'compradores' ou 'gestores de milhas': além de violar o regulamento, isso abre a porta para o roubo do saldo inteiro."
+      ],
+      "dica": "Coloque o risco na conta. Exemplo ilustrativo: vender 50.000 milhas a R$ 16 o milheiro rende R$ 800. Se a conta for bloqueada e ainda tinha 200.000 milhas que você usaria numa viagem a uns R$ 20 o milheiro, o prejuízo é de R$ 4.000, cinco vezes o que você recebeu. E isso sem contar o risco de não receber do comprador e o imposto sobre o ganho.",
+      "videos": [
+        {
+          "titulo": "Por Que EU NÃO Recomendo Vender Milhas? Os RISCOS Que Ninguém Conta!",
+          "canal": "Caio Milhas | Caio Gonçalves",
+          "url": "https://www.youtube.com/watch?v=TmQUkgiuwAI",
+          "publicado": "2026-01-07",
+          "duracao": "18:16",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Baixo",
+            "veredito": "Um dos poucos criadores de conteúdo de milhas que diz com todas as letras que não recomenda vender. Lista banimento do programa, bloqueio de CPF, risco de crédito, não recebimento, oscilação de preço e mercado não regulado, e aponta alternativas (viajar, cashback, presentear). Auditado por título e descrição detalhada; a transcrição não estava acessível.",
+            "alerta": "É de jan/2026: não cobre o PL 3.083/2026 nem a biometria facial, e não fala do imposto de renda sobre o ganho (veja a próxima aula). A comunidade paga anunciada como 'zero risco' é publicidade: nenhum uso de milhas tem risco zero."
+          }
+        },
+        {
+          "titulo": "Companhias aéreas podem proibir venda de milhas em programas de fidelidade, define Terceira Turma",
+          "canal": "Superior Tribunal de Justiça (STJ)",
+          "url": "https://www.youtube.com/watch?v=SRH_SHvyNCk",
+          "publicado": "2024-06-11",
+          "duracao": "1:57",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Fonte oficial: o próprio STJ explica a decisão da Terceira Turma (REsp 2.011.456) que considerou lícita a cláusula que proíbe vender milhas a terceiros, por serem bonificações gratuitas da companhia. Curto e sem interesse comercial. Auditado por título e descrição; a transcrição não estava acessível.",
+            "alerta": "É de 2024 e julga um caso concreto (não é súmula), mas é a referência do STJ sobre o tema. Se o PL 3.083/2026 virar lei, o cenário pode mudar; até lá, vale o regulamento do programa."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=AoqUlaWwKE0", "motivo": "Explica bem o PL 3.083/2026 e até a conta do milheiro, mas o título é caça-clique e o foco num projeto que ainda não é lei pode passar a ideia de que vender já está liberado." },
+        { "url": "https://www.youtube.com/watch?v=qAoK3V4zR0w", "motivo": "Diz corretamente que o PL ainda não é lei, mas olha a mudança pelo lado de quem vende ('mais liberdade e segurança'). Fica como reserva para quando o Senado votar." },
+        { "url": "https://www.youtube.com/watch?v=67bzssCT06g", "motivo": "Ensina onde vender milhas da Azul e mostra quanto recebeu, sem tratar de regulamento nem de bloqueio." },
+        { "url": "https://www.youtube.com/watch?v=G6q_BDrZxz0", "motivo": "Trata da decisão do STJ do ponto de vista de quem vive de vender milhas ('Profissão Gestor de Milhas'); preferimos a fonte oficial." }
+      ]
+    },
+    {
+      "id": "imposto-de-renda",
+      "nome": "Milhas e imposto de renda",
+      "porque": "Quem acumula milhas para viajar normalmente não paga imposto por isso. O problema começa quando a pessoa compra e vende milhas: pode haver ganho, e a Receita acompanha a movimentação bancária. E em set/2026 o STJ decidiu que milhas com valor econômico mensurável são bens digitais do patrimônio e podem ser penhoradas para pagar dívidas (REsp 2.198.485). Isso não muda a regra do imposto, mas mostra que milhas são tratadas como patrimônio.",
+      "passos": [
+        "Se você só acumula e usa milhas para viajar, em geral não há imposto nem obrigação de declarar o saldo. Alguns contadores sugerem informar em Bens e Direitos sem valor.",
+        "Se comprou milhas ou pontos (clube, compra direta), guarde os comprovantes: valor pago, data, quantidade e programa. Compras de valor relevante podem precisar entrar em Bens e Direitos pelo custo.",
+        "Se vendeu, registre a data, o valor, a quantidade e quem comprou (nome e CPF/CNPJ), e some o total vendido em cada mês.",
+        "Leve esses dados a um contador antes da declaração: ele define o enquadramento do seu caso (ganho de capital, rendimento ou atividade).",
+        "Se houver imposto a pagar, não espere a declaração anual: no regime de ganho de capital, o DARF vence no último dia útil do mês seguinte ao da venda."
+      ],
+      "armadilhas": [
+        "Tratar orientação de blog como regra oficial: não localizamos (nov/2026) nenhuma Solução de Consulta da Receita Federal específica sobre venda de milhas por pessoa física. O que existe é a interpretação de contadores e consultorias, como a de que a venda é ganho de capital.",
+        "Achar que o limite de isenção é anual ou sobre o lucro: na leitura mais comum (ganho de capital de bens de pequeno valor), o limite de R$ 35 mil vale para o total vendido no mês.",
+        "Esquecer o custo das milhas: milhas ganhas no cartão podem ser consideradas de custo zero, o que transforma todo o valor da venda em ganho. Quem vende com frequência ainda pode ter a atividade tratada como rendimento ou como negócio.",
+        "Achar que 'ninguém fica sabendo': o dinheiro chega por Pix e pela conta bancária, e a Receita recebe informações dessas movimentações."
+      ],
+      "dica": "Exemplo ilustrativo, na leitura mais comum (ganho de capital): você comprou 100.000 milhas por R$ 1.500 e vendeu por R$ 1.800, um ganho de R$ 300. Se o total vendido no mês ficou abaixo de R$ 35 mil, esse ganho costuma ser declarado como isento. Acima disso, o imposto começa em 15% sobre o ganho (R$ 45 neste exemplo), apurado no programa GCAP. Repare que a isenção olha o total vendido no mês, não o lucro. Consulte um contador: a Receita não tem regra específica para milhas, e o enquadramento pode mudar.",
+      "videos": [
+        {
+          "titulo": "VENDA DE MILHAS: Como Pagar Menos Imposto (ou Zero) Sem Erros!",
+          "canal": "Contador do Investidor",
+          "url": "https://www.youtube.com/watch?v=_Dq6I9fyBCs",
+          "publicado": "2026-01-15",
+          "duracao": "12:50",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Médio",
+            "veredito": "Conteúdo de um contador sobre o que importa: milhas como bens ou direitos, a isenção de R$ 35 mil por mês, o custo de aquisição de milhas 'orgânicas' versus compradas, o GCAP com o DARF e o risco de não declarar. Auditado por título e descrição; a transcrição não estava acessível.",
+            "alerta": "O título promete 'pagar menos imposto (ou zero)' e a descrição fala em 'escalar esse negócio'. Aqui o objetivo é entender a regra, não montar um negócio de venda, que continua proibido pelos regulamentos. Como não há regra específica da Receita para milhas, trate o enquadramento como interpretação."
+          }
+        },
+        {
+          "titulo": "\"🛫 Você Sabe Como Declarar MILHAS AÉREAS no Imposto de Renda? Veja Antes de Cair na Malha Fina!\"",
+          "canal": "Contabilidade Olímpia",
+          "url": "https://www.youtube.com/watch?v=L38jnN8k33c",
+          "publicado": "2025-06-05",
+          "duracao": "2:12",
+          "auditoria": {
+            "nota": 5,
+            "risco": "Baixo",
+            "veredito": "Explicação curta (2 minutos) de um escritório de contabilidade sobre quando declarar milhas acumuladas e vendidas no IRPF 2025, sem vender nada além do próprio serviço. É superficial, mas serve de primeira orientação. Auditado só por título e descrição; a transcrição não estava acessível, por isso a confiança é menor.",
+            "alerta": "É do IRPF 2025 e, em 2 minutos, não dá conta de custo de aquisição, limite mensal e DARF. Não decida sozinho com base nele: leve os seus números a um contador."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=qQ0udxdza8E", "motivo": "Recente e honesto ao dizer que 'não existe regra específica para milhas', mas é feito por quem compra mais de R$ 300 mil em milhas por ano para revender e leva a uma aula sobre 'lucrar com milhas'." },
+        { "url": "https://www.youtube.com/watch?v=SR_4_N1YNpQ", "motivo": "28 minutos num canal de 'renda extra com cartão'; descrição genérica e sem capítulos." },
+        { "url": "https://www.youtube.com/watch?v=RAsC00Pjvfo", "motivo": "Canal 'Profissão Gestor de Milhas', vídeo de 3 minutos sem conteúdo verificável na descrição." },
+        { "url": "https://www.youtube.com/watch?v=1VTzhioUDIg", "motivo": "Feito para o IRPF 2024; desatualizado para a declaração atual." }
+      ]
+    }
+  ]
+}

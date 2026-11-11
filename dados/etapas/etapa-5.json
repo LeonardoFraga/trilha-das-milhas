@@ -1,0 +1,222 @@
+{
+  "etapa": 5,
+  "aulas": [
+    {
+      "id": "salas-vip",
+      "nome": "Salas VIP",
+      "porque": "Sala VIP é o benefício mais visível e o argumento mais usado para vender cartão de anuidade alta. Entre 2024 e 2026 os bancos cortaram visitas, trocaram de programa e passaram a exigir gasto mínimo para manter o acesso. Entender quem paga essa conta evita gastar mais de mil reais por ano em anuidade para tomar alguns cafés no aeroporto.",
+      "passos": [
+        "No app do banco ou no site da bandeira, descubra qual programa o seu cartão dá (LoungeKey, Priority Pass, DragonPass/Visa Airport Companion, Mastercard Airport Experiences ou sala própria do banco) e anote as regras: visitas por ano, se exige gasto mínimo e se o convidado paga.",
+        "Ative o benefício antes de viajar (app ou cartão digital do programa) e confira quais salas existem nos aeroportos e terminais que você usa de verdade, separando voo doméstico de internacional.",
+        "Pergunte ao banco quanto custa a visita extra e a do acompanhante: em geral a cobrança vem na fatura em dólar, com IOF.",
+        "Faça a conta: anuidade efetivamente paga ÷ visitas que você realmente usa no ano = custo por visita. Compare com o que gastaria comendo no aeroporto.",
+        "No dia, leve o cartão (físico ou no app) e o cartão de embarque, e respeite o limite de tempo antes do voo que a sala aplicar."
+      ],
+      "armadilhas": [
+        "Pagar anuidade alta só pela sala VIP e usar duas ou três vezes por ano.",
+        "Levar acompanhante achando que é grátis: a visita do convidado costuma ser cobrada em dólar na fatura, e o valor por visita muda conforme o programa.",
+        "Gastar mais do que o normal para bater o gasto mínimo trimestral que alguns bancos passaram a exigir para manter o acesso.",
+        "Confiar em regra antiga: bancos trocam de programa e cortam visitas com pouco aviso, e a sala pode recusar a entrada por lotação."
+      ],
+      "dica": "Conta com números fictícios: anuidade de R$ 1.200 e 6 visitas usadas no ano → R$ 1.200 ÷ 6 = R$ 200 por visita. Se um lanche no aeroporto sai por R$ 60, a sala sozinha não paga essa anuidade. A conta só fecha se a anuidade for isenta por um gasto que você já faz, ou se você viaja muito. Refaça com os seus números antes de pedir ou manter um cartão por causa de sala VIP.",
+      "videos": [
+        {
+          "titulo": "SALAS VIP: como acessar e o que é Loungekey, Priority Pass e Dragon Pass?",
+          "canal": "Melhores Destinos",
+          "url": "https://www.youtube.com/watch?v=08hytGgXdV4",
+          "publicado": "2026-06-13",
+          "duracao": "17:23",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Explicação clara e recente das diferenças entre LoungeKey, Priority Pass e Dragon Pass e de como descobrir qual o seu cartão oferece, com links para os sites oficiais dos programas. A monetização se limita ao ranking de cartões e aos apps do próprio canal. Auditado pela descrição; a transcrição não estava acessível.",
+            "alerta": "A descrição promete acesso 'sem pagar nada a mais', mas quem paga é a anuidade ou o gasto mínimo exigido pelo banco. Várias regras de bancos mudaram depois da gravação (junho/2026): confirme no seu banco."
+          }
+        },
+        {
+          "titulo": "Melhores Cartões para Sala VIP 2026: Loungekey, Priority Pass e Dragon Pass",
+          "canal": "DIA23",
+          "url": "https://www.youtube.com/watch?v=uZJBr1LLksc",
+          "publicado": "2026-08-24",
+          "duracao": "19:25",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Atualizado (agosto/2026) e com a mensagem certa: em 2026 quase todo banco passou a exigir gasto mínimo, e o que decide é o seu gasto real, não só a anuidade. Mostra a linha do tempo dos cortes, banco por banco. A descrição tem funil para curso, comunidade paga, concierge e cupons de afiliado. Auditado pela descrição detalhada e pelos capítulos; a transcrição não estava acessível.",
+            "alerta": "A lista de cartões, anuidades e gastos mínimos é de agosto/2026 e envelhece rápido: confira no banco antes de decidir. Não peça um cartão de alta renda só pela sala VIP; some anuidade e gasto mínimo e compare com o uso que você faria."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=f__6jocahzg", "motivo": "Recente, mas sem capítulos e com descrição sem conteúdo auditável; funil 'torne o mundo das milhas o seu negócio' e 'viajar com até 90% de desconto'." },
+        { "url": "https://www.youtube.com/watch?v=R824KXROclI", "motivo": "Bom tour por Guarulhos, mas o foco é 'de graça', restrito a um aeroporto, e há capítulos que levam à emissão do cartão Nomad com cupom de afiliado." },
+        { "url": "https://www.youtube.com/watch?v=bOlfj2mlUxE", "motivo": "Boletim de notícias de 4 minutos que envelhece em semanas; vende o grupo pago 'Tudo Sobre Sala VIP'." },
+        { "url": "https://www.youtube.com/watch?v=3NMAUa0rvT8", "motivo": "Lista de 'cartões com sala VIP grátis' de cerca de 1 ano atrás, anterior às regras de gasto mínimo de 2025 e 2026." }
+      ]
+    },
+    {
+      "id": "hoteis-e-carros",
+      "nome": "Hotéis e carros com pontos",
+      "porque": "Livelo, Esfera e as companhias aéreas oferecem diárias de hotel e aluguel de carro, e a vitrine faz parecer um bom negócio. Muitas vezes, porém, o ponto rende menos ali do que numa passagem. Programas de hotel como o ALL Accor funcionam de outro jeito (o ponto tem valor fixo de desconto). Saber comparar o milheiro evita queimar pontos que valeriam mais em outro uso.",
+      "passos": [
+        "Antes de resgatar, cote a mesma diária ou o mesmo aluguel em dinheiro, nas mesmas datas, com a mesma categoria e a mesma política de cancelamento, no site do hotel ou da locadora e num buscador.",
+        "Calcule o valor do milheiro: (preço em dinheiro − o que você paga em dinheiro no resgate) ÷ pontos usados × 1.000.",
+        "Compare esse valor com o que você costuma conseguir em passagens (etapa 4) e com a opção de transferir para um programa de hotel, que às vezes tem promoção bonificada. Faça a conta em todas as opções.",
+        "Leia o que está incluso: taxas locais e café da manhã no hotel; no carro, proteções, franquia, taxas de devolução e o bloqueio de caução no cartão de crédito.",
+        "Cadastre-se grátis nos programas da rede ou da locadora que você usa (ex.: ALL Accor, Marriott Bonvoy, Hilton Honors, IHG One Rewards, programas de locadoras) para acumular nas estadias pagas, sem estocar pontos sem plano."
+      ],
+      "armadilhas": [
+        "Comparar o resgate com o preço cheio de balcão, e não com o menor preço real que você pagaria em dinheiro.",
+        "Não ler a política de cancelamento: reservas com pontos costumam ter regras mais duras, e reservas feitas por terceiros (banco ou companhia) muitas vezes não dão pontos nem noites de status no programa do hotel.",
+        "No carro, descobrir no balcão que a diária com pontos não incluía proteções e taxas, ou ter o limite do cartão travado pela caução.",
+        "Transferir milhas aéreas para programa de hotel sem fazer a conta: a paridade costuma ser ruim fora de promoção."
+      ],
+      "dica": "Exemplo com números fictícios: diária de R$ 600 ou 40.000 pontos Livelo → 600 ÷ 40.000 × 1.000 = R$ 15 por milheiro. Se nas passagens você costuma conseguir R$ 25 por milheiro, os mesmos 40.000 pontos valeriam R$ 1.000 numa passagem, e o hotel com pontos 'custou' R$ 400 de valor perdido. A conta muda se você não tem viagem aérea em vista ou se os pontos estão para vencer.",
+      "videos": [
+        {
+          "titulo": "Vale a pena usar PONTOS e MILHAS pra se HOSPEDAR? | Análise COMPLETA para os Principais Programas!",
+          "canal": "Universo das Milhas",
+          "url": "https://www.youtube.com/watch?v=-dvaA1qKvFU",
+          "publicado": "2025-02-05",
+          "duracao": "21:23",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Faz a pergunta certa (vale a pena hospedar com pontos?) e passa programa por programa (Livelo, Smiles, LATAM Pass, Azul Fidelidade e ALL Accor), comparando com o preço em dinheiro. Tem quase 2 anos, e as tabelas mudaram desde então. O canal vende curso e um 'Balcão de Milhas' (venda de milhas). Auditado por título, descrição e capítulos; a transcrição não estava acessível.",
+            "alerta": "Aproveite o método, não os números: refaça a conta com os preços de hoje. Se o vídeo comparar com 'quanto o mercado paga pelo milheiro', esse é o preço de venda de milhas, que os regulamentos proíbem. Compare com o que você consegue em passagens e ignore o balcão."
+          }
+        },
+        {
+          "titulo": "GASTEI MEUS PONTOS LIVELO PARA ALUGAR UM CARRO… FOI UM BOM NEGÓCIO?",
+          "canal": "Everton Rufino",
+          "url": "https://www.youtube.com/watch?v=CPbwILWNbDc",
+          "publicado": "2026-08-12",
+          "duracao": "11:50",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Baixo",
+            "veredito": "Teste real e recente de aluguel de carro com pontos Livelo: mostra o preço em dinheiro, os pontos usados e quanto cada ponto valeu, no formato honesto de 'fiz e mostro a conta'. O canal é pequeno e sem histórico no nicho, e é um caso só (uma data, um lugar, uma locadora). Auditado pela descrição; a transcrição não estava acessível.",
+            "alerta": "O resultado vale para aquela reserva; refaça a conta com as suas datas. Preste atenção na parte dos 'detalhes que eu não esperava': proteções, taxas e caução no cartão podem mudar a conta."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=HUTZu0wWN_0", "motivo": "Conta útil (cerca de R$ 17 por milheiro em hotel via LATAM Pass, em 2026), mas usa como régua 'o que o mercado paga', ou seja, a venda de milhas, e cobre só um programa. Fica como reserva." },
+        { "url": "https://www.youtube.com/watch?v=bgGQ7UaGcyM", "motivo": "Título de 'novo segredo/hack', sem capítulos, e descrição só com links de venda e afiliados; ainda cita 'Clube TudoAzul'." },
+        { "url": "https://www.youtube.com/watch?v=KsKIxi8QkVY", "motivo": "A maior parte do vídeo trata de sites de reserva com cupons de afiliado; pontos e milhas ocupam cerca de 2 minutos." },
+        { "url": "https://www.youtube.com/watch?v=cXfPcwbMX4I", "motivo": "Curto e correto no conceito (valor fixo do ponto ALL), mas a descrição está em português europeu ('ecrã', 'planear') e os valores em euro; não deu para confirmar que é pt-BR." },
+        { "url": "https://www.youtube.com/watch?v=OeMNOpxAfB8", "motivo": "Promete sair do aeroporto 'sem gastar um centavo do bolso' e não compara o valor do ponto com o preço em dinheiro." },
+        { "url": "https://www.youtube.com/watch?v=7NcKDYQ-Xns", "motivo": "Publicidade da Accor (#Publi), sem análise de valor." }
+      ]
+    },
+    {
+      "id": "beneficios-do-cartao",
+      "nome": "Benefícios do cartão: seguros e proteção",
+      "porque": "Cartões de categoria mais alta costumam trazer seguros da bandeira (Visa ou Mastercard): seguro viagem, compra protegida, garantia estendida. Em alguns casos valem mais que os pontos. Só funcionam se você cumprir as condições, como pagar a passagem com o cartão e emitir o bilhete antes de viajar, e se souber que muitos funcionam por reembolso. Conhecer coberturas e exclusões antes evita uma surpresa cara no exterior.",
+      "passos": [
+        "Descubra a bandeira e a categoria exata do seu cartão (no app ou na fatura) e consulte, no portal de benefícios da bandeira, o que essa categoria oferece.",
+        "Antes de uma viagem internacional, cumpra a condição de elegibilidade (em geral pagar a passagem, ou as taxas do resgate com milhas, com o cartão; confira a regra atual) e emita o bilhete ou certificado no site da bandeira. Guarde o PDF e os telefones da assistência.",
+        "Leia as condições gerais: limite de despesas médicas, exclusões (doença preexistente, esportes, gravidez etc.), se o atendimento é direto ou por reembolso e se o documento atende a exigências do destino.",
+        "Para compra protegida e garantia estendida: guarde nota fiscal, fatura e termo de garantia do fabricante, e anote o prazo para abrir o pedido.",
+        "Compare com o preço de um seguro viagem pago para o seu perfil (idade, destino, saúde) antes de decidir viajar só com o do cartão."
+      ],
+      "armadilhas": [
+        "Achar que o seguro vale automaticamente: sem pagar com o cartão e sem bilhete emitido, a cobertura pode não existir.",
+        "Descobrir no exterior que o seguro é por reembolso: você paga o hospital do próprio bolso (ou no limite do cartão) e espera o ressarcimento.",
+        "Ignorar exclusões e limites, como doença preexistente, atividades de aventura e valores baixos para bagagem.",
+        "Manter um cartão de anuidade alta 'pelos seguros' sem nunca ter lido as condições: bandeira e banco podem mudar ou retirar benefícios."
+      ],
+      "dica": "Pense no pior cenário, não no médio. Pergunte: 'se eu precisar de um hospital no exterior, tenho dinheiro ou limite para adiantar a conta enquanto espero o reembolso?' e 'o limite de despesas médicas da minha categoria cobre o destino?'. Se a resposta for não, ou se você tem condição preexistente, um seguro pago pode valer o custo, mesmo tendo o do cartão.",
+      "videos": [
+        {
+          "titulo": "Seguro Viagem da Visa mudou - Veja como emitir o bilhete agora.",
+          "canal": "Passageiro de Primeira",
+          "url": "https://www.youtube.com/watch?v=siGtze2Dd1M",
+          "publicado": "2026-09-16",
+          "duracao": "12:39",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Atualizado (setembro/2026): mostra as duas formas atuais de emitir o bilhete do seguro Visa (só o certificado, ou validar a viagem antes) e os documentos de cada caso, apontando o site oficial de benefícios. Sem funil de venda. Auditado pela descrição; a transcrição não estava acessível.",
+            "alerta": "Vale para cartões Visa, e a cobertura depende da categoria do seu cartão. Se o seu for Mastercard, o mesmo canal tem o vídeo equivalente: https://www.youtube.com/watch?v=J9WWw-xFhvI. Emitir o bilhete não substitui ler as exclusões."
+          }
+        },
+        {
+          "titulo": "SEGURO-VIAGEM do CARTÃO de crédito: o que NINGUÉM te conta (e me deixou na mão na hora H)!",
+          "canal": "Imagina na Viagem",
+          "url": "https://www.youtube.com/watch?v=TZ80yGUL0eQ",
+          "publicado": "2026-06-14",
+          "duracao": "13:53",
+          "auditoria": {
+            "nota": 7,
+            "risco": "Médio",
+            "veredito": "Cobre o que os tutoriais costumam pular: reembolso x assistência direta, regra da bandeira x da seguradora, exclusões, prazos e categoria do cartão, com casos reais (Bariloche e Paris). O viés está no fim: recomenda seguro pago por link de afiliado com cupom. Auditado pela descrição e pelos capítulos; a transcrição não estava acessível.",
+            "alerta": "Os alertas valem; a conclusão de 'nunca viajar sem seguro especializado' vem de quem ganha comissão do comparador. Decida pelos limites e exclusões da sua categoria, não pelo susto."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=J9WWw-xFhvI", "motivo": "Bom e recente (agosto/2026), ficou de fora só pelo limite de 2 vídeos. Se o seu cartão é Mastercard, assista a este no lugar do vídeo da Visa." },
+        { "url": "https://www.youtube.com/watch?v=irMge00wRhM", "motivo": "Seguro Mastercard em versão de 2025; o vídeo de 2026 do Passageiro de Primeira cobre o mesmo com data mais recente." },
+        { "url": "https://www.youtube.com/watch?v=MQL2pWfhhlk", "motivo": "Cerca de 3 anos e canal voltado a 'Profissão Gestor de Milhas' (gestão e venda)." },
+        { "url": "https://www.youtube.com/watch?v=P2KiIf7G4dQ", "motivo": "Garantia estendida, cerca de 4 anos: regras de garantia estendida e proteção de preço mudaram desde então." },
+        { "url": "https://www.youtube.com/watch?v=2k6Fgp7NpQI", "motivo": "Bilhete de garantia estendida Mastercard, cerca de 3 anos; processo e coberturas provavelmente desatualizados." }
+      ]
+    },
+    {
+      "id": "produtos-e-cashback",
+      "nome": "Troca por produtos e cashback",
+      "porque": "A vitrine de produtos do programa é o jeito mais fácil, e quase sempre o pior, de usar pontos: a conta do milheiro costuma mostrar que o ponto vale bem menos numa geladeira do que numa passagem, e às vezes menos até que no cashback. Saber fazer essa conta em um minuto protege o que você acumulou. Também é educação financeira reconhecer quando o dinheiro de volta é a melhor saída, por exemplo com pontos vencendo e nenhuma viagem à vista.",
+      "passos": [
+        "Escolha um produto do catálogo, anote quantos pontos ele pede e procure o mesmo produto em dinheiro, pelo menor preço real (com frete).",
+        "Calcule: preço em dinheiro ÷ pontos × 1.000 = valor do milheiro nesse resgate. Faça o mesmo para a opção de cashback ou desconto na fatura do seu programa.",
+        "Compare esses valores com o que você consegue em passagens (use a calculadora da trilha).",
+        "Se não há viagem à vista e os pontos vão vencer, escolha a opção com mais reais por milheiro entre cashback, fatura e produto: perder os pontos é o pior caso.",
+        "Se você sempre acaba trocando pontos por dinheiro, considere um cartão de cashback direto (etapa 2): costuma render mais do que converter pontos."
+      ],
+      "armadilhas": [
+        "Olhar só o 'preço em pontos' sem comparar com o preço do produto em outras lojas: catálogos costumam usar preço cheio.",
+        "Usar 'pontos + dinheiro' em produto sem ver que a parte em dinheiro já pode estar acima do preço de mercado.",
+        "Resgatar algo que você não compraria só para 'não perder' pontos: isso não é economia.",
+        "Usar o preço de venda de milhas como régua: vender é proibido pelos regulamentos e tem risco de bloqueio e de calote."
+      ],
+      "dica": "Exemplo com números fictícios: geladeira por 250.000 pontos, que custa R$ 3.000 no varejo → 3.000 ÷ 250.000 × 1.000 = R$ 12 por milheiro. Se o seu programa paga cashback a R$ 15 por milheiro, os mesmos 250.000 pontos virariam R$ 3.750 em dinheiro, mais que o preço da geladeira. E se você consegue R$ 25 por milheiro em passagens, eles valeriam R$ 6.250 numa viagem.",
+      "videos": [
+        {
+          "titulo": "Vale a Pena Trocar Pontos por Produtos? Fiz as Contas!",
+          "canal": "Vivi por aí - Milhas",
+          "url": "https://www.youtube.com/watch?v=-b95uRda9i0",
+          "publicado": "2026-10-25",
+          "duracao": "20:42",
+          "auditoria": {
+            "nota": 8,
+            "risco": "Baixo",
+            "veredito": "Exatamente o tema da aula e muito recente (outubro/2026): pega uma geladeira na Livelo e compara o preço em pontos, o preço em dinheiro na própria Livelo e em outras lojas, e o valor dos pontos usados. Não demoniza toda troca; ensina a avaliar cada uma. A única divulgação é um grupo de WhatsApp. Auditado pela descrição; a transcrição não estava acessível.",
+            "alerta": "O milheiro Livelo de R$ 25 usado como referência é um parâmetro do canal, não um valor oficial. Use o valor que você realmente consegue nos seus resgates, nunca o preço de venda de milhas."
+          }
+        },
+        {
+          "titulo": "Por que você NUNCA deve trocar PONTOS e MILHAS por desconto na FATURA | Mostrei como ganhar mais!",
+          "canal": "Universo das Milhas",
+          "url": "https://www.youtube.com/watch?v=szCUVNCRvdk",
+          "publicado": "2025-06-26",
+          "duracao": "11:43",
+          "auditoria": {
+            "nota": 6,
+            "risco": "Médio",
+            "veredito": "Mostra por que desconto na fatura e cashback com pontos costumam render pouco e chega a uma conclusão útil: quem quer dinheiro de volta costuma ganhar mais com um cartão de cashback do que convertendo pontos. Perde nota pelo 'NUNCA' absoluto e porque o canal vende um 'Balcão de Milhas' (venda). Auditado pela descrição; a transcrição não estava acessível.",
+            "alerta": "'Nunca' é exagero: com pontos perto de vencer e sem viagem à vista, cashback é melhor que perder tudo. Se o vídeo sugerir vender os pontos como alternativa, desconsidere: os regulamentos proíbem e há risco de bloqueio."
+          }
+        }
+      ],
+      "descartados": [
+        { "url": "https://www.youtube.com/watch?v=2-PY82pFFms", "motivo": "Tutorial curto de troca de pontos Livelo do BB por dinheiro, mas sem a conta de valor e com incorporação desativada (oEmbed 401): não dá para exibir no site." },
+        { "url": "https://www.youtube.com/watch?v=oecc-Z5xTlk", "motivo": "Tema certo, mas a descrição só tem links de curso, comunidade paga e 'Balcão de Milhas'; nada auditável." },
+        { "url": "https://www.youtube.com/watch?v=aE4CCZTR6v8", "motivo": "Cashback x milhas já usado na etapa 2 (escolher o cartão); funil do Fábrica de Milhas." },
+        { "url": "https://www.youtube.com/watch?v=C3nwreyJ2ck", "motivo": "Conclusão enviesada ('para 90%+ das pessoas: milhas') sem considerar anuidade e uso real." },
+        { "url": "https://www.youtube.com/watch?v=tEpnM_1y9bk", "motivo": "Cerca de 3 anos; valores e regras de cashback da Livelo desatualizados." },
+        { "url": "https://www.youtube.com/watch?v=DLiTZQ63lhk", "motivo": "Cerca de 3 anos e canal pequeno; o vídeo de 2026 da Vivi faz a mesma análise com dados atuais." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+ "verificado_em": "novembro de 2026",
+ "etapas": [
+  {
+   "modulo": 1,
+   "nivel": "Básico",
+   "titulo": "Fundamentos",
+   "resumo": "Como o sistema de pontos e milhas funciona, quem são os programas e a regra que vem antes de tudo: cartão de crédito só serve para milhas se a fatura for paga inteira, todo mês.",
+   "grupos": [
+    {
+     "tipo": "Entender o sistema",
+     "aulas": [
+      {
+       "id": "o-que-sao-pontos-e-milhas",
+       "nome": "O que são pontos e milhas"
+      },
+      {
+       "id": "programas-do-brasil",
+       "nome": "Os principais programas do Brasil"
+      },
+      {
+       "id": "cartao-sem-divida",
+       "nome": "Cartão de crédito sem dívida"
+      },
+      {
+       "id": "validade-e-expiracao",
+       "nome": "Validade e expiração"
+      }
+     ]
+    }
+   ],
+   "materiais": []
+  },
+  {
+   "modulo": 2,
+   "nivel": "Básico",
+   "titulo": "Acumular no dia a dia",
+   "resumo": "Juntar pontos com o que você já gasta, sem gastar mais por causa deles: o cartão certo, as lojas parceiras e os acúmulos fora do cartão.",
+   "grupos": [
+    {
+     "tipo": "Acumular",
+     "aulas": [
+      {
+       "id": "escolher-o-cartao",
+       "nome": "Escolher o cartão",
+       "calc": 2
+      },
+      {
+       "id": "shoppings-de-pontos",
+       "nome": "Shoppings de pontos e lojas parceiras"
+      },
+      {
+       "id": "acumulo-fora-do-cartao",
+       "nome": "Acúmulo fora do cartão"
+      },
+      {
+       "id": "milhas-voando",
+       "nome": "Milhas voando: utilizáveis x qualificáveis"
+      }
+     ]
+    }
+   ],
+   "materiais": []
+  },
+  {
+   "modulo": 3,
+   "nivel": "Intermediário",
+   "titulo": "Transferir e fazer a conta",
+   "resumo": "Levar os pontos do banco para a companhia aérea na hora certa e saber quanto cada milheiro custou. É aqui que se ganha ou se perde dinheiro.",
+   "grupos": [
+    {
+     "tipo": "Transferir",
+     "aulas": [
+      {
+       "id": "transferir-pontos",
+       "nome": "Transferir pontos para companhias aéreas"
+      },
+      {
+       "id": "transferencia-bonificada",
+       "nome": "Transferência bonificada"
+      }
+     ]
+    },
+    {
+     "tipo": "Fazer a conta",
+     "aulas": [
+      {
+       "id": "cpm-custo-do-milheiro",
+       "nome": "CPM: o custo do milheiro",
+       "calc": 1
+      },
+      {
+       "id": "clubes-de-assinatura",
+       "nome": "Clubes de assinatura",
+       "calc": 1
+      },
+      {
+       "id": "compra-de-pontos",
+       "nome": "Compra de pontos com desconto",
+       "calc": 1
+      }
+     ]
+    }
+   ],
+   "materiais": []
+  },
+  {
+   "modulo": 4,
+   "nivel": "Intermediário",
+   "titulo": "Emitir passagens",
+   "resumo": "Transformar milhas em assento: buscar, comparar com o preço em dinheiro, emitir e saber o que fazer se o plano mudar.",
+   "grupos": [
+    {
+     "tipo": "Emitir",
+     "aulas": [
+      {
+       "id": "emitir-passo-a-passo",
+       "nome": "Emitir com milhas, passo a passo"
+      },
+      {
+       "id": "milhas-ou-dinheiro",
+       "nome": "Tabela fixa x dinâmica: milhas ou dinheiro?",
+       "calc": 0
+      },
+      {
+       "id": "taxas-e-custos",
+       "nome": "Taxas de embarque e custos escondidos"
+      }
+     ]
+    },
+    {
+     "tipo": "Antes e depois",
+     "aulas": [
+      {
+       "id": "alertas-de-promocao",
+       "nome": "Alertas e busca de promoções"
+      },
+      {
+       "id": "cancelamento-e-direitos",
+       "nome": "Cancelamento, remarcação e direitos"
+      }
+     ]
+    }
+   ],
+   "materiais": [
+    {
+     "titulo": "Novas regras da ANAC para atrasos e cancelamentos",
+     "descricao": "Agência Gov · Resolução 813/2026, em vigor desde 26/10/2026",
+     "url": "https://agenciagov.ebc.com.br/noticias/202609/anac-atualiza-regras-sobre-atrasos-e-cancelamentos-e-amplia-deveres-de-informacao-aos-passageiros"
+    },
+    {
+     "titulo": "Reclamar de companhia aérea",
+     "descricao": "consumidor.gov.br · canal oficial, gratuito",
+     "url": "https://www.consumidor.gov.br/"
+    }
+   ]
+  },
+  {
+   "modulo": 5,
+   "nivel": "Intermediário",
+   "titulo": "Além da passagem",
+   "resumo": "Outros usos para pontos e benefícios de cartão: sala VIP, hotel, carro, seguros. E os resgates que parecem bons mas destroem valor.",
+   "grupos": [
+    {
+     "tipo": "Usar bem",
+     "aulas": [
+      {
+       "id": "salas-vip",
+       "nome": "Salas VIP"
+      },
+      {
+       "id": "hoteis-e-carros",
+       "nome": "Hotéis e carros com pontos"
+      },
+      {
+       "id": "beneficios-do-cartao",
+       "nome": "Benefícios do cartão: seguros e proteção"
+      },
+      {
+       "id": "produtos-e-cashback",
+       "nome": "Troca por produtos e cashback"
+      }
+     ]
+    }
+   ],
+   "materiais": []
+  },
+  {
+   "modulo": 6,
+   "nivel": "Avançado",
+   "titulo": "Voar mais longe",
+   "resumo": "Voos internacionais com milhas: companhias parceiras, paradas no caminho, programas de fora do Brasil e a executiva sem ilusão.",
+   "grupos": [
+    {
+     "tipo": "Internacional",
+     "aulas": [
+      {
+       "id": "aliancas-e-parceiras",
+       "nome": "Alianças e companhias parceiras"
+      },
+      {
+       "id": "stopover-e-multidestinos",
+       "nome": "Stopover e multidestinos"
+      },
+      {
+       "id": "programas-estrangeiros",
+       "nome": "Programas estrangeiros"
+      },
+      {
+       "id": "executiva-com-milhas",
+       "nome": "Executiva com milhas"
+      }
+     ]
+    }
+   ],
+   "materiais": []
+  },
+  {
+   "modulo": 7,
+   "nivel": "Avançado",
+   "titulo": "Proteger o patrimônio",
+   "resumo": "Milhas são um ativo que pode sumir: golpe, desvalorização, conta bloqueada, empresa que quebra, imposto. O que quase nenhum curso pago ensina.",
+   "grupos": [
+    {
+     "tipo": "Riscos",
+     "aulas": [
+      {
+       "id": "seguranca-e-golpes",
+       "nome": "Segurança da conta e golpes"
+      },
+      {
+       "id": "desvalorizacao",
+       "nome": "Desvalorização: não estoque milhas"
+      },
+      {
+       "id": "emissao-para-terceiros",
+       "nome": "Emissão para terceiros e limite de beneficiários"
+      },
+      {
+       "id": "venda-de-milhas",
+       "nome": "Venda de milhas: o que os cursos não contam"
+      },
+      {
+       "id": "imposto-de-renda",
+       "nome": "Milhas e imposto de renda"
+      }
+     ]
+    }
+   ],
+   "materiais": [
+    {
+     "titulo": "STJ: companhia aérea pode proibir venda de milhas",
+     "descricao": "Conjur · REsp 2.011.456, 2024",
+     "url": "https://www.conjur.com.br/?p=757723"
+    },
+    {
+     "titulo": "STJ: milhas podem ser penhoradas para pagar dívidas",
+     "descricao": "Lex · REsp 2.198.485, 2026",
+     "url": "https://www.lex.com.br/milhas-e-pontos-de-programas-de-fidelidade-podem-ser-penhorados-para-pagar-dividas/"
+    },
+    {
+     "titulo": "Câmara aprova regras para venda de milhas (PL 3.083/2026)",
+     "descricao": "Agência Câmara · ainda depende do Senado",
+     "url": "https://www.camara.leg.br/noticias/1297482-camara-aprova-novas-regras-para-venda-e-troca-de-milhas-por-dinheiro"
+    }
+   ]
+  }
+ ],
+ "glossario": [
+  {
+   "termo": "CPM",
+   "categoria": "Siglas e jargão",
+   "definicao": "Custo por milheiro: quanto você pagou, em reais, por cada mil milhas. É a conta central do assunto: só vale resgatar quando o resgate vale mais do que o CPM.",
+   "variantes": [
+    "custo do milheiro",
+    "custo por milheiro"
+   ],
+   "modulos": [
+    3,
+    4
+   ]
+  },
+  {
+   "termo": "Milheiro",
+   "categoria": "Siglas e jargão",
+   "definicao": "Um lote de mil pontos ou milhas. Preços, custos e cotações quase sempre são dados por milheiro (ex.: 'milheiro a R$ 18').",
+   "variantes": [
+    "milheiros"
+   ],
+   "modulos": [
+    3
+   ]
+  },
+  {
+   "termo": "Pontos por dólar",
+   "categoria": "Siglas e jargão",
+   "definicao": "Quantos pontos o cartão dá a cada dólar gasto. O banco converte o gasto em reais para dólar só para essa conta, mesmo em compras no Brasil.",
+   "variantes": [
+    "pts/US$",
+    "pontos por dólar gasto"
+   ],
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Bonificada",
+   "categoria": "Siglas e jargão",
+   "definicao": "Jeito curto de falar de transferência bonificada ou compra bonificada: uma promoção que dá pontos ou milhas extras.",
+   "modulos": [
+    2,
+    3
+   ]
+  },
+  {
+   "termo": "Hub",
+   "categoria": "Siglas e jargão",
+   "definicao": "Programa que junta pontos para depois mandar para vários destinos, como Livelo e Esfera. Deixar os pontos no hub dá flexibilidade para escolher a companhia aérea só na hora de usar.",
+   "modulos": [
+    1,
+    3
+   ]
+  },
+  {
+   "termo": "Emissão",
+   "categoria": "Siglas e jargão",
+   "definicao": "O ato de gerar a passagem (o bilhete) usando milhas. 'Emitir' é comprar com milhas.",
+   "variantes": [
+    "emitir",
+    "emissões"
+   ],
+   "modulos": [
+    4
+   ]
+  },
+  {
+   "termo": "Programa de fidelidade",
+   "categoria": "Programas",
+   "definicao": "Sistema em que uma empresa dá pontos ou milhas a quem compra dela ou de parceiros, para trocar depois por produtos e passagens.",
+   "variantes": [
+    "programas de fidelidade"
+   ],
+   "modulos": [
+    1
+   ]
+  },
+  {
+   "termo": "Pontos",
+   "categoria": "Programas",
+   "definicao": "Moeda dos programas de bancos e varejo (Livelo, Esfera, programas próprios dos bancos). Normalmente não viram passagem direto: precisam ser transferidos para uma companhia aérea.",
+   "variantes": [
+    "ponto"
+   ],
+   "modulos": [
+    1
+   ]
+  },
+  {
+   "termo": "Milhas",
+   "categoria": "Programas",
+   "definicao": "Moeda dos programas de companhias aéreas (Smiles, LATAM Pass, Azul Fidelidade). Servem para emitir passagens dessa companhia e de parceiras.",
+   "variantes": [
+    "milha"
+   ],
+   "modulos": [
+    1
+   ]
+  },
+  {
+   "termo": "Livelo",
+   "categoria": "Programas",
+   "definicao": "Programa de pontos ligado a Banco do Brasil e Bradesco, entre outros. Funciona como hub: recebe pontos de cartões e parceiros e transfere para várias companhias aéreas.",
+   "modulos": [
+    1,
+    3
+   ]
+  },
+  {
+   "termo": "Esfera",
+   "categoria": "Programas",
+   "definicao": "Programa de pontos do Santander. Também funciona como hub, com transferência para companhias aéreas.",
+   "modulos": [
+    1,
+    3
+   ]
+  },
+  {
+   "termo": "Smiles",
+   "categoria": "Programas",
+   "definicao": "Programa de milhas da Gol. Emite voos da Gol e de companhias parceiras.",
+   "modulos": [
+    1,
+    4
+   ]
+  },
+  {
+   "termo": "LATAM Pass",
+   "categoria": "Programas",
+   "definicao": "Programa de milhas da LATAM. Emite voos da LATAM e de parceiras.",
+   "modulos": [
+    1,
+    4
+   ]
+  },
+  {
+   "termo": "Azul Fidelidade",
+   "categoria": "Programas",
+   "definicao": "Programa de pontos da Azul, que até 2024 se chamava TudoAzul. Emite voos da Azul e de parceiras.",
+   "variantes": [
+    "TudoAzul"
+   ],
+   "modulos": [
+    1,
+    4
+   ]
+  },
+  {
+   "termo": "Aliança aérea",
+   "categoria": "Programas",
+   "definicao": "Grupo de companhias que aceitam as milhas umas das outras: Star Alliance, oneworld e SkyTeam. É o que permite usar milhas de um programa para voar em outra companhia.",
+   "variantes": [
+    "alianças",
+    "Star Alliance",
+    "oneworld",
+    "SkyTeam"
+   ],
+   "modulos": [
+    6
+   ],
+   "avancado": true
+  },
+  {
+   "termo": "Programa estrangeiro",
+   "categoria": "Programas",
+   "definicao": "Programa de milhas de companhia de fora do Brasil (TAP Miles&Go, Avios, Flying Blue, AAdvantage). Às vezes cobra menos milhas por um voo internacional do que os programas brasileiros.",
+   "variantes": [
+    "programas estrangeiros"
+   ],
+   "modulos": [
+    6
+   ],
+   "avancado": true
+  },
+  {
+   "termo": "Avios",
+   "categoria": "Programas",
+   "definicao": "Moeda de milhas compartilhada por British Airways, Iberia, Qatar Airways e outras. Alguns hubs brasileiros transferem para ela.",
+   "modulos": [
+    6
+   ],
+   "avancado": true
+  },
+  {
+   "termo": "Shopping de pontos",
+   "categoria": "Acúmulo",
+   "definicao": "Portal do programa (ex.: Shopping Livelo, Shopping Smiles) que leva você a lojas parceiras. Comprando a partir dele, você ganha pontos extras além dos do cartão.",
+   "variantes": [
+    "shoppings de pontos",
+    "shopping Livelo",
+    "Shopping Smiles"
+   ],
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Compra bonificada",
+   "categoria": "Acúmulo",
+   "definicao": "Promoção em que uma loja dá vários pontos por real gasto. Só vale se você já ia comprar aquele produto, por um preço que já era bom.",
+   "variantes": [
+    "compras bonificadas"
+   ],
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Cashback",
+   "categoria": "Acúmulo",
+   "definicao": "Devolução de parte do valor gasto em dinheiro. Para quem viaja pouco, costuma render mais do que pontos, porque não desvaloriza nem expira.",
+   "modulos": [
+    2,
+    5
+   ]
+  },
+  {
+   "termo": "Milhas qualificáveis",
+   "categoria": "Acúmulo",
+   "definicao": "Milhas ou pontos que contam para subir de categoria no programa (status). São diferentes das milhas que você usa para emitir passagem.",
+   "variantes": [
+    "qualificáveis"
+   ],
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Categoria",
+   "categoria": "Acúmulo",
+   "definicao": "Nível de status no programa (ex.: Prata, Ouro, Diamante). Dá benefícios como bagagem, embarque prioritário e mais milhas por voo. Depende de voar ou gastar muito.",
+   "variantes": [
+    "status",
+    "categoria elite"
+   ],
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Paridade",
+   "categoria": "Transferência",
+   "definicao": "Quantas milhas você recebe por ponto transferido. Ex.: paridade 1:1 = 1 ponto vira 1 milha. Muda por programa e por cartão; confira antes de transferir.",
+   "variantes": [
+    "paridades"
+   ],
+   "modulos": [
+    3
+   ]
+  },
+  {
+   "termo": "Transferência bonificada",
+   "categoria": "Transferência",
+   "definicao": "Promoção em que, ao transferir pontos do banco para a companhia aérea, você ganha um bônus (ex.: 80% a mais). É o principal jeito de baixar o CPM.",
+   "variantes": [
+    "transferências bonificadas"
+   ],
+   "modulos": [
+    3
+   ]
+  },
+  {
+   "termo": "Bumerangue",
+   "categoria": "Transferência",
+   "definicao": "Campanha da Livelo que devolve parte dos pontos transferidos depois de um prazo. Conta como desconto no custo, mas os pontos voltam só depois e com regras próprias.",
+   "modulos": [
+    3
+   ],
+   "avancado": true
+  },
+  {
+   "termo": "Clube de assinatura",
+   "categoria": "Transferência",
+   "definicao": "Mensalidade paga a um programa (ex.: Clube Smiles, Clube Livelo) que dá pontos todo mês e acesso a bônus maiores. Só compensa se você vai usar as milhas.",
+   "variantes": [
+    "clube",
+    "clubes",
+    "clubes de assinatura",
+    "clube de milhas"
+   ],
+   "modulos": [
+    3
+   ]
+  },
+  {
+   "termo": "Tabela fixa",
+   "categoria": "Resgate",
+   "definicao": "Quando o programa cobra uma quantidade fixa de milhas por trecho, independentemente do preço da passagem em dinheiro. Costuma ser o melhor uso de milhas.",
+   "modulos": [
+    4,
+    6
+   ]
+  },
+  {
+   "termo": "Tabela dinâmica",
+   "categoria": "Resgate",
+   "definicao": "Quando o preço em milhas sobe e desce junto com o preço em dinheiro. É o modelo da maioria dos programas brasileiros hoje e reduz as 'pechinchas'.",
+   "variantes": [
+    "dinâmica",
+    "preço dinâmico"
+   ],
+   "modulos": [
+    4
+   ]
+  },
+  {
+   "termo": "Taxa de embarque",
+   "categoria": "Resgate",
+   "definicao": "Cobrança do aeroporto paga em dinheiro mesmo em passagem com milhas. Por isso não existe passagem 100% grátis.",
+   "variantes": [
+    "taxas de embarque"
+   ],
+   "modulos": [
+    4
+   ]
+  },
+  {
+   "termo": "Sobretaxa de combustível",
+   "categoria": "Resgate",
+   "definicao": "Cobrança extra em dinheiro que algumas companhias somam em voos internacionais com milhas. Pode deixar o resgate caro; compare antes de emitir.",
+   "variantes": [
+    "YQ",
+    "sobretaxas"
+   ],
+   "modulos": [
+    4,
+    6
+   ],
+   "avancado": true
+  },
+  {
+   "termo": "Disponibilidade",
+   "categoria": "Resgate",
+   "definicao": "Assentos que a companhia libera para resgate com milhas. É limitada, principalmente em executiva e alta temporada; um preço visto num print não garante que você vai achar igual.",
+   "variantes": [
+    "assento prêmio"
+   ],
+   "modulos": [
+    4,
+    6
+   ]
+  },
+  {
+   "termo": "Stopover",
+   "categoria": "Resgate",
+   "definicao": "Parada de mais de 24 horas numa cidade no meio do caminho, dentro da mesma emissão. Alguns programas permitem e assim dá para conhecer dois lugares pelo preço de um trecho.",
+   "variantes": [
+    "stopovers"
+   ],
+   "modulos": [
+    6
+   ],
+   "avancado": true
+  },
+  {
+   "termo": "Overbooking",
+   "categoria": "Resgate",
+   "definicao": "Quando a companhia vende mais assentos do que o avião tem. Se você for impedido de embarcar, tem direitos de assistência e compensação, inclusive em passagem com milhas.",
+   "modulos": [
+    4
+   ]
+  },
+  {
+   "termo": "Anuidade",
+   "categoria": "Cartões",
+   "definicao": "Taxa anual do cartão. Os cartões que mais pontuam costumam ter anuidade alta; ela precisa ser menor do que o valor dos pontos que você realmente gera.",
+   "variantes": [
+    "anuidades"
+   ],
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Downgrade",
+   "categoria": "Cartões",
+   "definicao": "Trocar o cartão por uma categoria inferior, geralmente para fugir de uma anuidade que não se paga. Também se diz de trocar a classe da passagem para uma mais barata.",
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Spread cambial",
+   "categoria": "Cartões",
+   "definicao": "Diferença entre a cotação de mercado e a que o banco usa nas compras em dólar. Junto com o IOF, encarece gastar no exterior para ganhar pontos.",
+   "variantes": [
+    "spread"
+   ],
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "IOF",
+   "categoria": "Cartões",
+   "definicao": "Imposto sobre operações financeiras cobrado em compras internacionais no cartão. Precisa entrar na conta quando se compara com o valor dos pontos ganhos.",
+   "modulos": [
+    2
+   ]
+  },
+  {
+   "termo": "Sala VIP",
+   "categoria": "Cartões",
+   "definicao": "Sala de espera no aeroporto com comida e conforto. O acesso vem do cartão (Priority Pass, LoungeKey, DragonPass) ou da categoria/classe do voo, com regras de quantidade de visitas e convidados.",
+   "variantes": [
+    "salas VIP",
+    "lounge"
+   ],
+   "modulos": [
+    5
+   ]
+  },
+  {
+   "termo": "Priority Pass",
+   "categoria": "Cartões",
+   "definicao": "Programa de acesso a salas VIP pelo mundo, oferecido por alguns cartões. Confira quantas visitas grátis o seu dá e quanto custa o convidado.",
+   "variantes": [
+    "LoungeKey",
+    "DragonPass"
+   ],
+   "modulos": [
+    5
+   ]
+  },
+  {
+   "termo": "Rotativo",
+   "categoria": "Riscos",
+   "definicao": "Crédito automático quando você paga menos que o total da fatura. Tem dos juros mais altos do país: um mês de rotativo apaga anos de pontos.",
+   "variantes": [
+    "juros do rotativo",
+    "pagamento mínimo"
+   ],
+   "modulos": [
+    1
+   ]
+  },
+  {
+   "termo": "Desvalorização",
+   "categoria": "Riscos",
+   "definicao": "Quando o programa passa a pedir mais milhas pelo mesmo voo. Acontece sem aviso e é o motivo para não estocar milhas por anos.",
+   "variantes": [
+    "desvalorizações"
+   ],
+   "modulos": [
+    7
+   ]
+  },
+  {
+   "termo": "Expiração",
+   "categoria": "Riscos",
+   "definicao": "Data em que pontos ou milhas vencem e somem. Cada programa tem prazo próprio, e clubes às vezes estendem esse prazo.",
+   "variantes": [
+    "validade",
+    "expirar",
+    "expiram"
+   ],
+   "modulos": [
+    1
+   ]
+  },
+  {
+   "termo": "Limite de beneficiários",
+   "categoria": "Riscos",
+   "definicao": "Regra que limita quantas pessoas diferentes podem receber passagens emitidas com a sua conta, por ano. Muda por programa; existe para coibir a venda de milhas.",
+   "variantes": [
+    "beneficiários",
+    "limite de CPF"
+   ],
+   "modulos": [
+    7
+   ]
+  },
+  {
+   "termo": "Venda de milhas",
+   "categoria": "Riscos",
+   "definicao": "Vender milhas ou emitir passagens para desconhecidos em troca de dinheiro. É proibida pelos regulamentos dos programas e pode levar ao bloqueio da conta e à perda do saldo.",
+   "variantes": [
+    "vender milhas"
+   ],
+   "modulos": [
+    7
+   ],
+   "avancado": true
+  },
+  {
+   "termo": "Risco de contraparte",
+   "categoria": "Riscos",
+   "definicao": "Risco de quem está do outro lado não cumprir o combinado, como a empresa que compra suas milhas e não paga. Em 2023, a 123milhas e a MaxMilhas entraram em recuperação judicial.",
+   "variantes": [
+    "contraparte"
+   ],
+   "modulos": [
+    7
+   ],
+   "avancado": true
+  }
+ ],
+ "regras": [
+  {
+   "titulo": "Fatura paga inteira, sempre",
+   "texto": "Milhas são um desconto pequeno sobre o que você já gasta. Os juros do rotativo e do parcelamento da fatura passam de 10% ao mês; um único mês no rotativo custa mais do que anos de pontos. Se não consegue pagar o total, a estratégia certa agora é outra."
+  },
+  {
+   "titulo": "Nunca gaste mais por causa de pontos",
+   "texto": "Compra bonificada, meta de gasto para ganhar bônus, cartão adicional para 'pontuar mais': nada disso compensa se o gasto não aconteceria de qualquer jeito."
+  },
+  {
+   "titulo": "Faça a conta antes de cada passo",
+   "texto": "Antes de comprar pontos, transferir ou emitir, compare o custo do milheiro (CPM) com o valor que ele vai ter no resgate. Use a aba Contas."
+  },
+  {
+   "titulo": "Acumule com objetivo, gaste com propósito",
+   "texto": "Milha é uma moeda que desvaloriza e expira. Junte pensando numa viagem e use quando o resgate for bom. Estoque grande parado é risco, não patrimônio."
+  },
+  {
+   "titulo": "Não transfira sem destino e sem bônus",
+   "texto": "Deixe os pontos no programa do banco até ter uma viagem em vista e uma promoção de transferência ativa. Transferência não tem volta."
+  },
+  {
+   "titulo": "Não existe passagem de graça",
+   "texto": "Taxas de embarque, sobretaxas, anuidade e mensalidade de clube são pagas em dinheiro. Some tudo antes de dizer que economizou."
+  },
+  {
+   "titulo": "Desconfie de renda extra",
+   "texto": "Vender milhas é proibido pelos regulamentos, pode bloquear sua conta, tem risco de calote de quem compra e pode ter imposto. Cursos que vendem 'renda com milhas' quase nunca contam isso."
+  },
+  {
+   "titulo": "Leia o regulamento",
+   "texto": "Paridade, validade, limite de beneficiários e regras de cancelamento mudam sem aviso. O que vale é o regulamento oficial do programa no dia, não o vídeo de um ano atrás."
+  },
+  {
+   "titulo": "Trate a conta como uma conta de banco",
+   "texto": "Senha única, verificação em duas etapas e nunca passe a senha para ninguém, nem para 'emitir para você'. Golpes de milhas são comuns e o programa nem sempre devolve o saldo."
+  },
+  {
+   "titulo": "Simples ganha do complicado",
+   "texto": "Um cartão que se paga, um programa de banco como hub e uma ou duas companhias aéreas resolvem a vida da maioria das pessoas. Complexidade só vale se a conta mostrar ganho."
+  }
+ ],
+ "mapa": [
+  {
+   "nome": "O gasto",
+   "exemplos": "cartão, lojas, contas",
+   "descricao": "Tudo começa com o que você já gasta. O cartão de crédito é o motor principal; lojas parceiras, combustível e apps complementam.",
+   "ganha": "Cartão que pontua bem e se paga; comprar via shopping de pontos o que já ia comprar.",
+   "perde": "Rotativo, gastar mais para pontuar, anuidade maior que o retorno.",
+   "modulos": [
+    1,
+    2
+   ]
+  },
+  {
+   "nome": "O programa do banco",
+   "exemplos": "Livelo, Esfera",
+   "descricao": "Os pontos do cartão caem no programa do banco, que funciona como hub: guarda e depois manda para a companhia aérea que você escolher.",
+   "ganha": "Esperar uma transferência bonificada; manter flexibilidade até ter uma viagem em vista.",
+   "perde": "Pontos que expiram parados; trocar por produtos a preço ruim.",
+   "modulos": [
+    1,
+    3
+   ]
+  },
+  {
+   "nome": "A transferência",
+   "exemplos": "paridade + bônus",
+   "descricao": "Os pontos viram milhas da companhia aérea. É aqui que o custo do milheiro (CPM) é definido.",
+   "ganha": "Bônus de transferência, clubes que aumentam o bônus, compra de pontos em promoção forte.",
+   "perde": "Transferir sem bônus, sem destino, ou comprar pontos sem ter onde usar.",
+   "modulos": [
+    3
+   ]
+  },
+  {
+   "nome": "O programa da companhia",
+   "exemplos": "Smiles, LATAM Pass, Azul Fidelidade",
+   "descricao": "As milhas ficam na companhia aérea até a emissão. Cada programa tem tabela, parceiras e regras próprias.",
+   "ganha": "Promoções de resgate, parceiras internacionais, programas estrangeiros para rotas específicas.",
+   "perde": "Expiração, desvalorização, conta bloqueada por uso fora do regulamento.",
+   "modulos": [
+    4,
+    6,
+    7
+   ]
+  },
+  {
+   "nome": "O resgate",
+   "exemplos": "passagem, hotel, sala VIP",
+   "descricao": "O momento em que as milhas viram valor. O resgate bom é o que vale mais por milheiro do que o seu CPM.",
+   "ganha": "Comparar com o preço em dinheiro, tabela fixa, stopover, executiva quando há disponibilidade real.",
+   "perde": "Tabela dinâmica cara, taxas altas, troca por produtos, emitir no impulso.",
+   "modulos": [
+    4,
+    5,
+    6
+   ]
+  }
+ ],
+ "sobre": {
+  "intro": "Esta trilha nasceu de uma pergunta: dá para aprender milhas do básico ao avançado sem pagar curso? A resposta foi montada em quatro passos, todos documentados no repositório.",
+  "repo": "https://github.com/LeonardoFraga/trilha-das-milhas/tree/main/pesquisa",
+  "secoes": [
+   {
+    "titulo": "1. Os 10 cursos da lista da Mobills",
+    "paragrafos": [
+     "O ponto de partida foi o artigo da Mobills com os melhores cursos de milhas para 2026: 9 pagos (Hotmart e Udemy) e 1 gratuito (uma playlist no YouTube).",
+     "Nenhum curso foi comprado. Cada um foi analisado pelo que é público: página de vendas, grade de aulas, aulas de prévia, avaliações, cópias antigas das páginas e o conteúdo gratuito dos autores."
+    ]
+   },
+   {
+    "titulo": "2. O Auditor das Milhas",
+    "paragrafos": [
+     "Cada curso e cada vídeo foi avaliado por uma persona de auditor, especialista e cético contra promessas de lucro fácil, em cinco pilares: precisão técnica, matemática (CPM e custos escondidos), transparência sobre riscos, didática e se o resgate prometido é realista.",
+     "Resultado dos cursos: nenhum passou de 5/10, e a média ficou em 3,75. Quase todos estavam desatualizados e 9 dos 10 ensinavam a vender milhas sem dizer que os regulamentos proíbem a venda nem que a conta pode ser bloqueada."
+    ]
+   },
+   {
+    "titulo": "3. Uma estrutura própria",
+    "paragrafos": [
+     "A ordem das etapas segue o que todos os cursos têm em comum: entender o sistema, acumular, transferir, emitir e usar bem. A diferença é que a trilha não ensina 'renda extra' e tem uma etapa inteira sobre o que os cursos omitem: golpes, desvalorização, limite de beneficiários, venda de milhas e imposto de renda."
+    ]
+   },
+   {
+    "titulo": "4. Vídeos gratuitos, auditados um a um",
+    "paragrafos": [
+     "Para cada aula foram buscados vídeos gratuitos em português, de preferência de 2025 e 2026. Cada vídeo escolhido foi conferido (está no ar e é público) e recebeu um parecer: nota, risco e o principal alerta. Vídeos com promessa de renda fácil ou regras antigas foram descartados, e o motivo ficou registrado.",
+     "Na maioria dos vídeos, o parecer foi feito pela descrição, pelos capítulos e pelo título, porque a transcrição não estava acessível. Por isso o parecer é um guia, não uma garantia: assista com senso crítico."
+    ]
+   },
+   {
+    "titulo": "Limites",
+    "paragrafos": [
+     "Conteúdo educativo, não é recomendação financeira nem de investimento. Regras, paridades, bônus e preços mudam sem aviso: confira sempre o regulamento oficial do programa. Os vídeos são de terceiros; nenhum link é de afiliado e a trilha não recebe nada de nenhum canal, banco ou programa."
+    ]
+   }
+  ]
+ }
+}
